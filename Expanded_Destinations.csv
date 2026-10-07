@@ -1,0 +1,1485 @@
+DestinationID,Name,State,Type,Popularity,BestTimeToVisit,ReviewText,VisitDate,ExperienceRating,Preferences
+1,Taj Mahal,Uttar Pradesh,Historical,8.691906259,Nov-Feb,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+2,Goa Beaches,Goa,Beach,8.605031858,Nov-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+3,Jaipur City,Rajasthan,City,9.225372008,Oct-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+4,Kerala Backwaters,Kerala,Nature,7.977385536,Sep-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+5,Leh Ladakh,Jammu and Kashmir,Adventure,8.399821878,Apr-Jun,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+6,Taj Mahal,Uttar Pradesh,Historical,7.648949544,Nov-Feb,A historical wonder,20-03-2024,3,"City, Historical"
+7,Goa Beaches,Goa,Beach,9.145068342,Nov-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+8,Jaipur City,Rajasthan,City,9.458704539,Oct-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+9,Kerala Backwaters,Kerala,Nature,9.260450137,Sep-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+10,Leh Ladakh,Jammu and Kashmir,Adventure,8.811952082,Apr-Jun,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+11,Taj Mahal,Uttar Pradesh,Historical,8.177709283,Nov-Feb,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+12,Goa Beaches,Goa,Beach,8.084317506,Nov-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+13,Jaipur City,Rajasthan,City,9.114721643,Oct-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+14,Kerala Backwaters,Kerala,Nature,8.551426231,Sep-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+15,Leh Ladakh,Jammu and Kashmir,Adventure,9.297389087,Apr-Jun,A historical wonder,20-03-2024,5,"City, Historical"
+16,Taj Mahal,Uttar Pradesh,Historical,8.337332882,Nov-Feb,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+17,Goa Beaches,Goa,Beach,7.524150402,Nov-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+18,Jaipur City,Rajasthan,City,8.332572924,Oct-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+19,Kerala Backwaters,Kerala,Nature,9.017090236,Sep-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+20,Leh Ladakh,Jammu and Kashmir,Adventure,8.930902395,Apr-Jun,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+21,Taj Mahal,Uttar Pradesh,Historical,9.321865627,Nov-Feb,A historical wonder,20-03-2024,1,"City, Historical"
+22,Goa Beaches,Goa,Beach,7.745073501,Nov-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+23,Jaipur City,Rajasthan,City,7.883349652,Oct-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+24,Kerala Backwaters,Kerala,Nature,9.182423104,Sep-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+25,Leh Ladakh,Jammu and Kashmir,Adventure,9.416526131,Apr-Jun,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+26,Taj Mahal,Uttar Pradesh,Historical,9.088205553,Nov-Feb,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+27,Goa Beaches,Goa,Beach,7.504499934,Nov-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+28,Jaipur City,Rajasthan,City,8.471855315,Oct-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+29,Kerala Backwaters,Kerala,Nature,8.32051439,Sep-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+30,Leh Ladakh,Jammu and Kashmir,Adventure,7.930637907,Apr-Jun,A historical wonder,20-03-2024,3,"City, Historical"
+31,Taj Mahal,Uttar Pradesh,Historical,8.534267494,Nov-Feb,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+32,Goa Beaches,Goa,Beach,7.806330196,Nov-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+33,Jaipur City,Rajasthan,City,7.684440449,Oct-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+34,Kerala Backwaters,Kerala,Nature,8.206055639,Sep-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+35,Leh Ladakh,Jammu and Kashmir,Adventure,8.115627955,Apr-Jun,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+36,Taj Mahal,Uttar Pradesh,Historical,8.152769658,Nov-Feb,A historical wonder,20-03-2024,5,"City, Historical"
+37,Goa Beaches,Goa,Beach,8.874757886,Nov-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+38,Jaipur City,Rajasthan,City,9.458687608,Oct-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+39,Kerala Backwaters,Kerala,Nature,9.276722027,Sep-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+40,Leh Ladakh,Jammu and Kashmir,Adventure,9.451473448,Apr-Jun,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+41,Taj Mahal,Uttar Pradesh,Historical,9.45205627,Nov-Feb,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+42,Goa Beaches,Goa,Beach,8.854828173,Nov-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+43,Jaipur City,Rajasthan,City,8.935833781,Oct-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+44,Kerala Backwaters,Kerala,Nature,8.844208014,Sep-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+45,Leh Ladakh,Jammu and Kashmir,Adventure,8.987615299,Apr-Jun,A historical wonder,20-03-2024,2,"City, Historical"
+46,Taj Mahal,Uttar Pradesh,Historical,8.666633063,Nov-Feb,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+47,Goa Beaches,Goa,Beach,7.726020725,Nov-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+48,Jaipur City,Rajasthan,City,9.072662351,Oct-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+49,Kerala Backwaters,Kerala,Nature,8.015972831,Sep-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+50,Leh Ladakh,Jammu and Kashmir,Adventure,8.180477326,Apr-Jun,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+51,Taj Mahal,Uttar Pradesh,Historical,8.329362265,Nov-Feb,A historical wonder,20-03-2024,5,"City, Historical"
+52,Goa Beaches,Goa,Beach,8.298754591,Nov-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+53,Jaipur City,Rajasthan,City,8.399568313,Oct-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+54,Kerala Backwaters,Kerala,Nature,8.116931496,Sep-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+55,Leh Ladakh,Jammu and Kashmir,Adventure,7.560629647,Apr-Jun,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+56,Taj Mahal,Uttar Pradesh,Historical,8.779339175,Nov-Feb,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+57,Goa Beaches,Goa,Beach,8.061326287,Nov-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+58,Jaipur City,Rajasthan,City,8.648115222,Oct-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+59,Kerala Backwaters,Kerala,Nature,9.490122865,Sep-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+60,Leh Ladakh,Jammu and Kashmir,Adventure,8.090294276,Apr-Jun,A historical wonder,20-03-2024,3,"City, Historical"
+61,Taj Mahal,Uttar Pradesh,Historical,9.255411352,Nov-Feb,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+62,Goa Beaches,Goa,Beach,9.379786904,Nov-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+63,Jaipur City,Rajasthan,City,9.202094231,Oct-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+64,Kerala Backwaters,Kerala,Nature,7.995381522,Sep-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+65,Leh Ladakh,Jammu and Kashmir,Adventure,8.264285623,Apr-Jun,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+66,Taj Mahal,Uttar Pradesh,Historical,8.657185751,Nov-Feb,A historical wonder,20-03-2024,4,"City, Historical"
+67,Goa Beaches,Goa,Beach,7.593468222,Nov-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+68,Jaipur City,Rajasthan,City,7.599766915,Oct-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+69,Kerala Backwaters,Kerala,Nature,9.251449512,Sep-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+70,Leh Ladakh,Jammu and Kashmir,Adventure,8.302199786,Apr-Jun,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+71,Taj Mahal,Uttar Pradesh,Historical,7.918856059,Nov-Feb,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+72,Goa Beaches,Goa,Beach,9.498128983,Nov-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+73,Jaipur City,Rajasthan,City,9.365362187,Oct-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+74,Kerala Backwaters,Kerala,Nature,8.618525609,Sep-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+75,Leh Ladakh,Jammu and Kashmir,Adventure,8.051674305,Apr-Jun,A historical wonder,20-03-2024,4,"City, Historical"
+76,Taj Mahal,Uttar Pradesh,Historical,9.019776841,Nov-Feb,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+77,Goa Beaches,Goa,Beach,8.724365523,Nov-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+78,Jaipur City,Rajasthan,City,8.697245496,Oct-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+79,Kerala Backwaters,Kerala,Nature,8.482629445,Sep-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+80,Leh Ladakh,Jammu and Kashmir,Adventure,9.167168853,Apr-Jun,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+81,Taj Mahal,Uttar Pradesh,Historical,8.113730398,Nov-Feb,A historical wonder,20-03-2024,2,"City, Historical"
+82,Goa Beaches,Goa,Beach,8.067416541,Nov-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+83,Jaipur City,Rajasthan,City,9.255202769,Oct-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+84,Kerala Backwaters,Kerala,Nature,9.333748543,Sep-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+85,Leh Ladakh,Jammu and Kashmir,Adventure,7.877439168,Apr-Jun,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+86,Taj Mahal,Uttar Pradesh,Historical,8.093807911,Nov-Feb,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+87,Goa Beaches,Goa,Beach,8.322799779,Nov-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+88,Jaipur City,Rajasthan,City,9.018383604,Oct-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+89,Kerala Backwaters,Kerala,Nature,8.686130971,Sep-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+90,Leh Ladakh,Jammu and Kashmir,Adventure,7.864848872,Apr-Jun,A historical wonder,20-03-2024,4,"City, Historical"
+91,Taj Mahal,Uttar Pradesh,Historical,8.775155892,Nov-Feb,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+92,Goa Beaches,Goa,Beach,7.842354722,Nov-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+93,Jaipur City,Rajasthan,City,9.116298425,Oct-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+94,Kerala Backwaters,Kerala,Nature,7.67865796,Sep-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+95,Leh Ladakh,Jammu and Kashmir,Adventure,8.187165617,Apr-Jun,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+96,Taj Mahal,Uttar Pradesh,Historical,8.984287702,Nov-Feb,A historical wonder,20-03-2024,5,"City, Historical"
+97,Goa Beaches,Goa,Beach,8.882535315,Nov-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+98,Jaipur City,Rajasthan,City,7.511446247,Oct-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+99,Kerala Backwaters,Kerala,Nature,8.154277486,Sep-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+100,Leh Ladakh,Jammu and Kashmir,Adventure,8.550622272,Apr-Jun,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+101,Taj Mahal,Uttar Pradesh,Historical,9.357876872,Nov-Feb,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+102,Goa Beaches,Goa,Beach,7.901206475,Nov-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+103,Jaipur City,Rajasthan,City,9.293866271,Oct-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+104,Kerala Backwaters,Kerala,Nature,9.032056857,Sep-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+105,Leh Ladakh,Jammu and Kashmir,Adventure,9.36769562,Apr-Jun,A historical wonder,20-03-2024,2,"City, Historical"
+106,Taj Mahal,Uttar Pradesh,Historical,8.49482356,Nov-Feb,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+107,Goa Beaches,Goa,Beach,8.670099992,Nov-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+108,Jaipur City,Rajasthan,City,8.180179995,Oct-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+109,Kerala Backwaters,Kerala,Nature,8.024075275,Sep-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+110,Leh Ladakh,Jammu and Kashmir,Adventure,8.885980061,Apr-Jun,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+111,Taj Mahal,Uttar Pradesh,Historical,8.979764649,Nov-Feb,A historical wonder,20-03-2024,5,"City, Historical"
+112,Goa Beaches,Goa,Beach,8.196505601,Nov-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+113,Jaipur City,Rajasthan,City,7.576534513,Oct-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+114,Kerala Backwaters,Kerala,Nature,9.46714704,Sep-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+115,Leh Ladakh,Jammu and Kashmir,Adventure,8.717346793,Apr-Jun,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+116,Taj Mahal,Uttar Pradesh,Historical,8.636073234,Nov-Feb,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+117,Goa Beaches,Goa,Beach,9.219798014,Nov-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+118,Jaipur City,Rajasthan,City,7.698985654,Oct-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+119,Kerala Backwaters,Kerala,Nature,8.95364316,Sep-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+120,Leh Ladakh,Jammu and Kashmir,Adventure,7.928950862,Apr-Jun,A historical wonder,20-03-2024,5,"City, Historical"
+121,Taj Mahal,Uttar Pradesh,Historical,8.624112218,Nov-Feb,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+122,Goa Beaches,Goa,Beach,7.791202933,Nov-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+123,Jaipur City,Rajasthan,City,9.31595004,Oct-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+124,Kerala Backwaters,Kerala,Nature,7.921320004,Sep-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+125,Leh Ladakh,Jammu and Kashmir,Adventure,8.136472031,Apr-Jun,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+126,Taj Mahal,Uttar Pradesh,Historical,8.271757062,Nov-Feb,A historical wonder,20-03-2024,3,"City, Historical"
+127,Goa Beaches,Goa,Beach,8.132745077,Nov-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+128,Jaipur City,Rajasthan,City,7.513479447,Oct-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+129,Kerala Backwaters,Kerala,Nature,9.066328358,Sep-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+130,Leh Ladakh,Jammu and Kashmir,Adventure,9.460634458,Apr-Jun,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+131,Taj Mahal,Uttar Pradesh,Historical,8.853926859,Nov-Feb,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+132,Goa Beaches,Goa,Beach,8.188672008,Nov-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+133,Jaipur City,Rajasthan,City,7.813559347,Oct-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+134,Kerala Backwaters,Kerala,Nature,7.743269418,Sep-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+135,Leh Ladakh,Jammu and Kashmir,Adventure,9.398122785,Apr-Jun,A historical wonder,20-03-2024,4,"City, Historical"
+136,Taj Mahal,Uttar Pradesh,Historical,8.153562079,Nov-Feb,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+137,Goa Beaches,Goa,Beach,8.863570277,Nov-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+138,Jaipur City,Rajasthan,City,9.195643437,Oct-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+139,Kerala Backwaters,Kerala,Nature,8.426322913,Sep-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+140,Leh Ladakh,Jammu and Kashmir,Adventure,8.907807741,Apr-Jun,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+141,Taj Mahal,Uttar Pradesh,Historical,7.618133332,Nov-Feb,A historical wonder,20-03-2024,4,"City, Historical"
+142,Goa Beaches,Goa,Beach,7.601039201,Nov-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+143,Jaipur City,Rajasthan,City,8.299735699,Oct-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+144,Kerala Backwaters,Kerala,Nature,7.830541228,Sep-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+145,Leh Ladakh,Jammu and Kashmir,Adventure,9.388011429,Apr-Jun,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+146,Taj Mahal,Uttar Pradesh,Historical,8.37384412,Nov-Feb,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+147,Goa Beaches,Goa,Beach,7.770934467,Nov-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+148,Jaipur City,Rajasthan,City,7.692741092,Oct-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+149,Kerala Backwaters,Kerala,Nature,7.812523861,Sep-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+150,Leh Ladakh,Jammu and Kashmir,Adventure,8.86387233,Apr-Jun,A historical wonder,20-03-2024,3,"City, Historical"
+151,Taj Mahal,Uttar Pradesh,Historical,9.450175079,Nov-Feb,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+152,Goa Beaches,Goa,Beach,9.000248319,Nov-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+153,Jaipur City,Rajasthan,City,9.072635914,Oct-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+154,Kerala Backwaters,Kerala,Nature,9.484797547,Sep-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+155,Leh Ladakh,Jammu and Kashmir,Adventure,7.933121409,Apr-Jun,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+156,Taj Mahal,Uttar Pradesh,Historical,8.967583118,Nov-Feb,A historical wonder,20-03-2024,2,"City, Historical"
+157,Goa Beaches,Goa,Beach,7.607643334,Nov-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+158,Jaipur City,Rajasthan,City,8.533439719,Oct-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+159,Kerala Backwaters,Kerala,Nature,8.01756636,Sep-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+160,Leh Ladakh,Jammu and Kashmir,Adventure,8.03668464,Apr-Jun,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+161,Taj Mahal,Uttar Pradesh,Historical,7.738547102,Nov-Feb,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+162,Goa Beaches,Goa,Beach,7.54477047,Nov-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+163,Jaipur City,Rajasthan,City,8.168780569,Oct-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+164,Kerala Backwaters,Kerala,Nature,7.818366934,Sep-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+165,Leh Ladakh,Jammu and Kashmir,Adventure,7.554650205,Apr-Jun,A historical wonder,20-03-2024,1,"City, Historical"
+166,Taj Mahal,Uttar Pradesh,Historical,7.967520191,Nov-Feb,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+167,Goa Beaches,Goa,Beach,9.185298189,Nov-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+168,Jaipur City,Rajasthan,City,7.634504263,Oct-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+169,Kerala Backwaters,Kerala,Nature,7.686748943,Sep-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+170,Leh Ladakh,Jammu and Kashmir,Adventure,7.848982806,Apr-Jun,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+171,Taj Mahal,Uttar Pradesh,Historical,7.721043377,Nov-Feb,A historical wonder,20-03-2024,4,"City, Historical"
+172,Goa Beaches,Goa,Beach,9.486279939,Nov-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+173,Jaipur City,Rajasthan,City,7.72225221,Oct-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+174,Kerala Backwaters,Kerala,Nature,8.360692115,Sep-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+175,Leh Ladakh,Jammu and Kashmir,Adventure,8.866219314,Apr-Jun,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+176,Taj Mahal,Uttar Pradesh,Historical,8.165093922,Nov-Feb,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+177,Goa Beaches,Goa,Beach,9.446896779,Nov-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+178,Jaipur City,Rajasthan,City,8.544351694,Oct-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+179,Kerala Backwaters,Kerala,Nature,8.299149271,Sep-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+180,Leh Ladakh,Jammu and Kashmir,Adventure,8.091363134,Apr-Jun,A historical wonder,20-03-2024,4,"City, Historical"
+181,Taj Mahal,Uttar Pradesh,Historical,9.236840653,Nov-Feb,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+182,Goa Beaches,Goa,Beach,8.332585022,Nov-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+183,Jaipur City,Rajasthan,City,8.872498744,Oct-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+184,Kerala Backwaters,Kerala,Nature,7.816345212,Sep-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+185,Leh Ladakh,Jammu and Kashmir,Adventure,8.242881343,Apr-Jun,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+186,Taj Mahal,Uttar Pradesh,Historical,8.118994457,Nov-Feb,A historical wonder,20-03-2024,1,"City, Historical"
+187,Goa Beaches,Goa,Beach,8.843079931,Nov-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+188,Jaipur City,Rajasthan,City,8.202625979,Oct-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+189,Kerala Backwaters,Kerala,Nature,8.649611763,Sep-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+190,Leh Ladakh,Jammu and Kashmir,Adventure,9.150588626,Apr-Jun,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+191,Taj Mahal,Uttar Pradesh,Historical,8.072256876,Nov-Feb,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+192,Goa Beaches,Goa,Beach,8.419905789,Nov-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+193,Jaipur City,Rajasthan,City,7.672819737,Oct-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+194,Kerala Backwaters,Kerala,Nature,7.764994889,Sep-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+195,Leh Ladakh,Jammu and Kashmir,Adventure,9.092972455,Apr-Jun,A historical wonder,20-03-2024,2,"City, Historical"
+196,Taj Mahal,Uttar Pradesh,Historical,8.393643742,Nov-Feb,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+197,Goa Beaches,Goa,Beach,9.43385527,Nov-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+198,Jaipur City,Rajasthan,City,8.2558932,Oct-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+199,Kerala Backwaters,Kerala,Nature,9.112874174,Sep-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+200,Leh Ladakh,Jammu and Kashmir,Adventure,7.77167519,Apr-Jun,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+201,Taj Mahal,Uttar Pradesh,Historical,7.653509094,Nov-Feb,A historical wonder,20-03-2024,2,"City, Historical"
+202,Goa Beaches,Goa,Beach,8.246718656,Nov-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+203,Jaipur City,Rajasthan,City,9.042840186,Oct-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+204,Kerala Backwaters,Kerala,Nature,7.963483704,Sep-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+205,Leh Ladakh,Jammu and Kashmir,Adventure,8.456754675,Apr-Jun,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+206,Taj Mahal,Uttar Pradesh,Historical,9.282226276,Nov-Feb,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+207,Goa Beaches,Goa,Beach,8.560557284,Nov-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+208,Jaipur City,Rajasthan,City,9.232664943,Oct-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+209,Kerala Backwaters,Kerala,Nature,7.65054329,Sep-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+210,Leh Ladakh,Jammu and Kashmir,Adventure,8.277611273,Apr-Jun,A historical wonder,20-03-2024,5,"City, Historical"
+211,Taj Mahal,Uttar Pradesh,Historical,8.188261258,Nov-Feb,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+212,Goa Beaches,Goa,Beach,9.149424673,Nov-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+213,Jaipur City,Rajasthan,City,7.971646077,Oct-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+214,Kerala Backwaters,Kerala,Nature,8.3782447,Sep-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+215,Leh Ladakh,Jammu and Kashmir,Adventure,7.584036611,Apr-Jun,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+216,Taj Mahal,Uttar Pradesh,Historical,9.3672022,Nov-Feb,A historical wonder,20-03-2024,1,"City, Historical"
+217,Goa Beaches,Goa,Beach,9.144764642,Nov-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+218,Jaipur City,Rajasthan,City,9.034168574,Oct-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+219,Kerala Backwaters,Kerala,Nature,9.237610355,Sep-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+220,Leh Ladakh,Jammu and Kashmir,Adventure,8.869504608,Apr-Jun,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+221,Taj Mahal,Uttar Pradesh,Historical,8.719051822,Nov-Feb,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+222,Goa Beaches,Goa,Beach,8.240843057,Nov-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+223,Jaipur City,Rajasthan,City,8.936949816,Oct-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+224,Kerala Backwaters,Kerala,Nature,8.077912596,Sep-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+225,Leh Ladakh,Jammu and Kashmir,Adventure,8.793334589,Apr-Jun,A historical wonder,20-03-2024,1,"City, Historical"
+226,Taj Mahal,Uttar Pradesh,Historical,7.721478394,Nov-Feb,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+227,Goa Beaches,Goa,Beach,8.882153319,Nov-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+228,Jaipur City,Rajasthan,City,8.534275498,Oct-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+229,Kerala Backwaters,Kerala,Nature,7.60393591,Sep-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+230,Leh Ladakh,Jammu and Kashmir,Adventure,7.619039723,Apr-Jun,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+231,Taj Mahal,Uttar Pradesh,Historical,7.78825614,Nov-Feb,A historical wonder,20-03-2024,4,"City, Historical"
+232,Goa Beaches,Goa,Beach,8.789144742,Nov-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+233,Jaipur City,Rajasthan,City,7.782973981,Oct-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+234,Kerala Backwaters,Kerala,Nature,9.42096054,Sep-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+235,Leh Ladakh,Jammu and Kashmir,Adventure,8.734064598,Apr-Jun,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+236,Taj Mahal,Uttar Pradesh,Historical,8.424772792,Nov-Feb,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+237,Goa Beaches,Goa,Beach,8.160740974,Nov-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+238,Jaipur City,Rajasthan,City,8.127785897,Oct-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+239,Kerala Backwaters,Kerala,Nature,8.757659225,Sep-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+240,Leh Ladakh,Jammu and Kashmir,Adventure,8.518452202,Apr-Jun,A historical wonder,20-03-2024,1,"City, Historical"
+241,Taj Mahal,Uttar Pradesh,Historical,7.668642705,Nov-Feb,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+242,Goa Beaches,Goa,Beach,9.164688152,Nov-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+243,Jaipur City,Rajasthan,City,9.068862539,Oct-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+244,Kerala Backwaters,Kerala,Nature,9.011521245,Sep-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+245,Leh Ladakh,Jammu and Kashmir,Adventure,9.459953314,Apr-Jun,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+246,Taj Mahal,Uttar Pradesh,Historical,8.617311411,Nov-Feb,A historical wonder,20-03-2024,3,"City, Historical"
+247,Goa Beaches,Goa,Beach,9.153509849,Nov-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+248,Jaipur City,Rajasthan,City,7.879027093,Oct-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+249,Kerala Backwaters,Kerala,Nature,8.894284044,Sep-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+250,Leh Ladakh,Jammu and Kashmir,Adventure,9.151090723,Apr-Jun,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+251,Taj Mahal,Uttar Pradesh,Historical,8.041916757,Nov-Feb,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+252,Goa Beaches,Goa,Beach,8.836459649,Nov-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+253,Jaipur City,Rajasthan,City,8.125034099,Oct-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+254,Kerala Backwaters,Kerala,Nature,9.143167495,Sep-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+255,Leh Ladakh,Jammu and Kashmir,Adventure,8.59789687,Apr-Jun,A historical wonder,20-03-2024,1,"City, Historical"
+256,Taj Mahal,Uttar Pradesh,Historical,8.403655362,Nov-Feb,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+257,Goa Beaches,Goa,Beach,8.284116199,Nov-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+258,Jaipur City,Rajasthan,City,7.617165381,Oct-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+259,Kerala Backwaters,Kerala,Nature,8.382675748,Sep-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+260,Leh Ladakh,Jammu and Kashmir,Adventure,7.917003558,Apr-Jun,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+261,Taj Mahal,Uttar Pradesh,Historical,8.083688761,Nov-Feb,A historical wonder,20-03-2024,2,"City, Historical"
+262,Goa Beaches,Goa,Beach,7.758783398,Nov-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+263,Jaipur City,Rajasthan,City,9.407835019,Oct-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+264,Kerala Backwaters,Kerala,Nature,8.025088515,Sep-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+265,Leh Ladakh,Jammu and Kashmir,Adventure,9.141722726,Apr-Jun,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+266,Taj Mahal,Uttar Pradesh,Historical,8.918773158,Nov-Feb,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+267,Goa Beaches,Goa,Beach,8.813848708,Nov-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+268,Jaipur City,Rajasthan,City,8.015626863,Oct-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+269,Kerala Backwaters,Kerala,Nature,7.588087849,Sep-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+270,Leh Ladakh,Jammu and Kashmir,Adventure,8.434929745,Apr-Jun,A historical wonder,20-03-2024,3,"City, Historical"
+271,Taj Mahal,Uttar Pradesh,Historical,9.232289962,Nov-Feb,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+272,Goa Beaches,Goa,Beach,7.935193697,Nov-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+273,Jaipur City,Rajasthan,City,9.324373463,Oct-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+274,Kerala Backwaters,Kerala,Nature,7.777024607,Sep-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+275,Leh Ladakh,Jammu and Kashmir,Adventure,8.388578038,Apr-Jun,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+276,Taj Mahal,Uttar Pradesh,Historical,7.591070677,Nov-Feb,A historical wonder,20-03-2024,5,"City, Historical"
+277,Goa Beaches,Goa,Beach,8.694303253,Nov-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+278,Jaipur City,Rajasthan,City,9.120385789,Oct-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+279,Kerala Backwaters,Kerala,Nature,7.84120695,Sep-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+280,Leh Ladakh,Jammu and Kashmir,Adventure,7.639341731,Apr-Jun,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+281,Taj Mahal,Uttar Pradesh,Historical,9.430864466,Nov-Feb,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+282,Goa Beaches,Goa,Beach,8.888987617,Nov-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+283,Jaipur City,Rajasthan,City,8.219242612,Oct-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+284,Kerala Backwaters,Kerala,Nature,9.014866522,Sep-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+285,Leh Ladakh,Jammu and Kashmir,Adventure,8.992391384,Apr-Jun,A historical wonder,20-03-2024,2,"City, Historical"
+286,Taj Mahal,Uttar Pradesh,Historical,9.36200147,Nov-Feb,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+287,Goa Beaches,Goa,Beach,9.171525351,Nov-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+288,Jaipur City,Rajasthan,City,8.172782288,Oct-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+289,Kerala Backwaters,Kerala,Nature,7.844009444,Sep-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+290,Leh Ladakh,Jammu and Kashmir,Adventure,7.934186546,Apr-Jun,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+291,Taj Mahal,Uttar Pradesh,Historical,8.571800372,Nov-Feb,A historical wonder,20-03-2024,5,"City, Historical"
+292,Goa Beaches,Goa,Beach,8.259128922,Nov-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+293,Jaipur City,Rajasthan,City,7.534360803,Oct-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+294,Kerala Backwaters,Kerala,Nature,8.55304694,Sep-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+295,Leh Ladakh,Jammu and Kashmir,Adventure,9.301807912,Apr-Jun,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+296,Taj Mahal,Uttar Pradesh,Historical,8.013451633,Nov-Feb,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+297,Goa Beaches,Goa,Beach,7.633292997,Nov-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+298,Jaipur City,Rajasthan,City,8.804695152,Oct-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+299,Kerala Backwaters,Kerala,Nature,8.966364802,Sep-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+300,Leh Ladakh,Jammu and Kashmir,Adventure,7.799198882,Apr-Jun,A historical wonder,20-03-2024,3,"City, Historical"
+301,Taj Mahal,Uttar Pradesh,Historical,8.634308851,Nov-Feb,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+302,Goa Beaches,Goa,Beach,7.649281077,Nov-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+303,Jaipur City,Rajasthan,City,9.356796584,Oct-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+304,Kerala Backwaters,Kerala,Nature,8.611208289,Sep-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+305,Leh Ladakh,Jammu and Kashmir,Adventure,8.111872494,Apr-Jun,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+306,Taj Mahal,Uttar Pradesh,Historical,8.448064464,Nov-Feb,A historical wonder,20-03-2024,1,"City, Historical"
+307,Goa Beaches,Goa,Beach,8.419860353,Nov-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+308,Jaipur City,Rajasthan,City,8.122052828,Oct-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+309,Kerala Backwaters,Kerala,Nature,8.122685723,Sep-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+310,Leh Ladakh,Jammu and Kashmir,Adventure,7.862071974,Apr-Jun,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+311,Taj Mahal,Uttar Pradesh,Historical,8.093952306,Nov-Feb,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+312,Goa Beaches,Goa,Beach,7.923067613,Nov-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+313,Jaipur City,Rajasthan,City,8.16049555,Oct-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+314,Kerala Backwaters,Kerala,Nature,7.923207094,Sep-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+315,Leh Ladakh,Jammu and Kashmir,Adventure,7.74668619,Apr-Jun,A historical wonder,20-03-2024,3,"City, Historical"
+316,Taj Mahal,Uttar Pradesh,Historical,8.033280743,Nov-Feb,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+317,Goa Beaches,Goa,Beach,8.617795776,Nov-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+318,Jaipur City,Rajasthan,City,7.799132449,Oct-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+319,Kerala Backwaters,Kerala,Nature,8.84963556,Sep-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+320,Leh Ladakh,Jammu and Kashmir,Adventure,8.353685271,Apr-Jun,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+321,Taj Mahal,Uttar Pradesh,Historical,9.146376228,Nov-Feb,A historical wonder,20-03-2024,4,"City, Historical"
+322,Goa Beaches,Goa,Beach,7.875971585,Nov-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+323,Jaipur City,Rajasthan,City,8.130587469,Oct-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+324,Kerala Backwaters,Kerala,Nature,7.662104839,Sep-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+325,Leh Ladakh,Jammu and Kashmir,Adventure,7.767402106,Apr-Jun,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+326,Taj Mahal,Uttar Pradesh,Historical,8.206421939,Nov-Feb,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+327,Goa Beaches,Goa,Beach,8.382390141,Nov-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+328,Jaipur City,Rajasthan,City,8.63148984,Oct-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+329,Kerala Backwaters,Kerala,Nature,8.2148979,Sep-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+330,Leh Ladakh,Jammu and Kashmir,Adventure,7.635735288,Apr-Jun,A historical wonder,20-03-2024,2,"City, Historical"
+331,Taj Mahal,Uttar Pradesh,Historical,9.082935361,Nov-Feb,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+332,Goa Beaches,Goa,Beach,8.94287466,Nov-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+333,Jaipur City,Rajasthan,City,7.632343967,Oct-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+334,Kerala Backwaters,Kerala,Nature,8.71066537,Sep-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+335,Leh Ladakh,Jammu and Kashmir,Adventure,9.310237104,Apr-Jun,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+336,Taj Mahal,Uttar Pradesh,Historical,9.268792308,Nov-Feb,A historical wonder,20-03-2024,4,"City, Historical"
+337,Goa Beaches,Goa,Beach,8.576362703,Nov-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+338,Jaipur City,Rajasthan,City,8.139654822,Oct-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+339,Kerala Backwaters,Kerala,Nature,8.568613099,Sep-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+340,Leh Ladakh,Jammu and Kashmir,Adventure,9.05157873,Apr-Jun,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+341,Taj Mahal,Uttar Pradesh,Historical,8.408281457,Nov-Feb,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+342,Goa Beaches,Goa,Beach,9.379923843,Nov-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+343,Jaipur City,Rajasthan,City,7.873481446,Oct-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+344,Kerala Backwaters,Kerala,Nature,9.162324692,Sep-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+345,Leh Ladakh,Jammu and Kashmir,Adventure,9.315488066,Apr-Jun,A historical wonder,20-03-2024,2,"City, Historical"
+346,Taj Mahal,Uttar Pradesh,Historical,8.969950616,Nov-Feb,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+347,Goa Beaches,Goa,Beach,7.920959928,Nov-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+348,Jaipur City,Rajasthan,City,8.013552976,Oct-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+349,Kerala Backwaters,Kerala,Nature,8.186215305,Sep-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+350,Leh Ladakh,Jammu and Kashmir,Adventure,7.950916522,Apr-Jun,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+351,Taj Mahal,Uttar Pradesh,Historical,8.488999182,Nov-Feb,A historical wonder,20-03-2024,3,"City, Historical"
+352,Goa Beaches,Goa,Beach,7.946596795,Nov-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+353,Jaipur City,Rajasthan,City,9.29747082,Oct-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+354,Kerala Backwaters,Kerala,Nature,7.760694703,Sep-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+355,Leh Ladakh,Jammu and Kashmir,Adventure,8.057546789,Apr-Jun,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+356,Taj Mahal,Uttar Pradesh,Historical,8.606176984,Nov-Feb,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+357,Goa Beaches,Goa,Beach,8.314502185,Nov-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+358,Jaipur City,Rajasthan,City,7.738761293,Oct-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+359,Kerala Backwaters,Kerala,Nature,7.832207354,Sep-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+360,Leh Ladakh,Jammu and Kashmir,Adventure,8.117132891,Apr-Jun,A historical wonder,20-03-2024,5,"City, Historical"
+361,Taj Mahal,Uttar Pradesh,Historical,8.134764369,Nov-Feb,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+362,Goa Beaches,Goa,Beach,8.908499372,Nov-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+363,Jaipur City,Rajasthan,City,8.85700532,Oct-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+364,Kerala Backwaters,Kerala,Nature,8.029543991,Sep-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+365,Leh Ladakh,Jammu and Kashmir,Adventure,8.878382688,Apr-Jun,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+366,Taj Mahal,Uttar Pradesh,Historical,9.266030293,Nov-Feb,A historical wonder,20-03-2024,5,"City, Historical"
+367,Goa Beaches,Goa,Beach,8.445148546,Nov-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+368,Jaipur City,Rajasthan,City,8.008251816,Oct-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+369,Kerala Backwaters,Kerala,Nature,7.526677668,Sep-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+370,Leh Ladakh,Jammu and Kashmir,Adventure,8.35737822,Apr-Jun,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+371,Taj Mahal,Uttar Pradesh,Historical,8.320896476,Nov-Feb,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+372,Goa Beaches,Goa,Beach,7.82461091,Nov-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+373,Jaipur City,Rajasthan,City,9.276956976,Oct-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+374,Kerala Backwaters,Kerala,Nature,9.270981322,Sep-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+375,Leh Ladakh,Jammu and Kashmir,Adventure,8.448235371,Apr-Jun,A historical wonder,20-03-2024,2,"City, Historical"
+376,Taj Mahal,Uttar Pradesh,Historical,9.483879397,Nov-Feb,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+377,Goa Beaches,Goa,Beach,7.922286151,Nov-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+378,Jaipur City,Rajasthan,City,9.364747011,Oct-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+379,Kerala Backwaters,Kerala,Nature,7.710901823,Sep-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+380,Leh Ladakh,Jammu and Kashmir,Adventure,8.658172609,Apr-Jun,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+381,Taj Mahal,Uttar Pradesh,Historical,9.300525031,Nov-Feb,A historical wonder,20-03-2024,1,"City, Historical"
+382,Goa Beaches,Goa,Beach,8.487140997,Nov-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+383,Jaipur City,Rajasthan,City,8.706955116,Oct-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+384,Kerala Backwaters,Kerala,Nature,8.632562616,Sep-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+385,Leh Ladakh,Jammu and Kashmir,Adventure,8.051203902,Apr-Jun,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+386,Taj Mahal,Uttar Pradesh,Historical,9.463332001,Nov-Feb,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+387,Goa Beaches,Goa,Beach,8.763403697,Nov-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+388,Jaipur City,Rajasthan,City,9.151665484,Oct-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+389,Kerala Backwaters,Kerala,Nature,9.409146178,Sep-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+390,Leh Ladakh,Jammu and Kashmir,Adventure,8.854728504,Apr-Jun,A historical wonder,20-03-2024,3,"City, Historical"
+391,Taj Mahal,Uttar Pradesh,Historical,8.937176477,Nov-Feb,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+392,Goa Beaches,Goa,Beach,8.659032747,Nov-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+393,Jaipur City,Rajasthan,City,8.429521722,Oct-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+394,Kerala Backwaters,Kerala,Nature,8.884525797,Sep-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+395,Leh Ladakh,Jammu and Kashmir,Adventure,8.879069809,Apr-Jun,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+396,Taj Mahal,Uttar Pradesh,Historical,9.113864702,Nov-Feb,A historical wonder,20-03-2024,2,"City, Historical"
+397,Goa Beaches,Goa,Beach,8.739477476,Nov-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+398,Jaipur City,Rajasthan,City,8.332950034,Oct-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+399,Kerala Backwaters,Kerala,Nature,8.376325562,Sep-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+400,Leh Ladakh,Jammu and Kashmir,Adventure,9.120122756,Apr-Jun,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+401,Taj Mahal,Uttar Pradesh,Historical,8.033376557,Nov-Feb,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+402,Goa Beaches,Goa,Beach,8.050919516,Nov-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+403,Jaipur City,Rajasthan,City,8.578600555,Oct-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+404,Kerala Backwaters,Kerala,Nature,9.289386994,Sep-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+405,Leh Ladakh,Jammu and Kashmir,Adventure,8.26630952,Apr-Jun,A historical wonder,20-03-2024,1,"City, Historical"
+406,Taj Mahal,Uttar Pradesh,Historical,8.138246013,Nov-Feb,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+407,Goa Beaches,Goa,Beach,8.685967653,Nov-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+408,Jaipur City,Rajasthan,City,7.78975361,Oct-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+409,Kerala Backwaters,Kerala,Nature,7.695324251,Sep-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+410,Leh Ladakh,Jammu and Kashmir,Adventure,9.056239629,Apr-Jun,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+411,Taj Mahal,Uttar Pradesh,Historical,8.284126728,Nov-Feb,A historical wonder,20-03-2024,5,"City, Historical"
+412,Goa Beaches,Goa,Beach,8.056589741,Nov-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+413,Jaipur City,Rajasthan,City,9.164900244,Oct-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+414,Kerala Backwaters,Kerala,Nature,8.418529332,Sep-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+415,Leh Ladakh,Jammu and Kashmir,Adventure,8.650437609,Apr-Jun,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+416,Taj Mahal,Uttar Pradesh,Historical,9.32701478,Nov-Feb,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+417,Goa Beaches,Goa,Beach,7.799317153,Nov-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+418,Jaipur City,Rajasthan,City,8.571570123,Oct-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+419,Kerala Backwaters,Kerala,Nature,8.16565426,Sep-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+420,Leh Ladakh,Jammu and Kashmir,Adventure,9.333012518,Apr-Jun,A historical wonder,20-03-2024,2,"City, Historical"
+421,Taj Mahal,Uttar Pradesh,Historical,8.912423771,Nov-Feb,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+422,Goa Beaches,Goa,Beach,7.962932744,Nov-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+423,Jaipur City,Rajasthan,City,8.427042499,Oct-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+424,Kerala Backwaters,Kerala,Nature,8.016517304,Sep-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+425,Leh Ladakh,Jammu and Kashmir,Adventure,7.677908499,Apr-Jun,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+426,Taj Mahal,Uttar Pradesh,Historical,7.742346086,Nov-Feb,A historical wonder,20-03-2024,1,"City, Historical"
+427,Goa Beaches,Goa,Beach,8.049399731,Nov-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+428,Jaipur City,Rajasthan,City,9.229663136,Oct-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+429,Kerala Backwaters,Kerala,Nature,8.1864846,Sep-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+430,Leh Ladakh,Jammu and Kashmir,Adventure,7.52816081,Apr-Jun,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+431,Taj Mahal,Uttar Pradesh,Historical,8.459730623,Nov-Feb,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+432,Goa Beaches,Goa,Beach,8.839626409,Nov-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+433,Jaipur City,Rajasthan,City,8.683728793,Oct-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+434,Kerala Backwaters,Kerala,Nature,8.707253749,Sep-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+435,Leh Ladakh,Jammu and Kashmir,Adventure,8.316001911,Apr-Jun,A historical wonder,20-03-2024,1,"City, Historical"
+436,Taj Mahal,Uttar Pradesh,Historical,7.728114076,Nov-Feb,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+437,Goa Beaches,Goa,Beach,7.987106149,Nov-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+438,Jaipur City,Rajasthan,City,8.465558406,Oct-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+439,Kerala Backwaters,Kerala,Nature,8.208388595,Sep-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+440,Leh Ladakh,Jammu and Kashmir,Adventure,8.224548105,Apr-Jun,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+441,Taj Mahal,Uttar Pradesh,Historical,7.865953291,Nov-Feb,A historical wonder,20-03-2024,1,"City, Historical"
+442,Goa Beaches,Goa,Beach,8.459808777,Nov-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+443,Jaipur City,Rajasthan,City,9.225300609,Oct-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+444,Kerala Backwaters,Kerala,Nature,8.308543308,Sep-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+445,Leh Ladakh,Jammu and Kashmir,Adventure,7.845173227,Apr-Jun,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+446,Taj Mahal,Uttar Pradesh,Historical,8.091809666,Nov-Feb,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+447,Goa Beaches,Goa,Beach,8.888745118,Nov-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+448,Jaipur City,Rajasthan,City,8.531272859,Oct-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+449,Kerala Backwaters,Kerala,Nature,7.900632193,Sep-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+450,Leh Ladakh,Jammu and Kashmir,Adventure,8.390879273,Apr-Jun,A historical wonder,20-03-2024,4,"City, Historical"
+451,Taj Mahal,Uttar Pradesh,Historical,7.948981237,Nov-Feb,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+452,Goa Beaches,Goa,Beach,7.710238851,Nov-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+453,Jaipur City,Rajasthan,City,8.42602682,Oct-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+454,Kerala Backwaters,Kerala,Nature,8.250765566,Sep-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+455,Leh Ladakh,Jammu and Kashmir,Adventure,7.889359194,Apr-Jun,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+456,Taj Mahal,Uttar Pradesh,Historical,7.509850241,Nov-Feb,A historical wonder,20-03-2024,5,"City, Historical"
+457,Goa Beaches,Goa,Beach,9.348468751,Nov-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+458,Jaipur City,Rajasthan,City,9.048845046,Oct-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+459,Kerala Backwaters,Kerala,Nature,8.23103403,Sep-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+460,Leh Ladakh,Jammu and Kashmir,Adventure,8.254492209,Apr-Jun,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+461,Taj Mahal,Uttar Pradesh,Historical,8.540493347,Nov-Feb,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+462,Goa Beaches,Goa,Beach,7.625998221,Nov-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+463,Jaipur City,Rajasthan,City,8.981270231,Oct-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+464,Kerala Backwaters,Kerala,Nature,8.555128224,Sep-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+465,Leh Ladakh,Jammu and Kashmir,Adventure,7.761543598,Apr-Jun,A historical wonder,20-03-2024,3,"City, Historical"
+466,Taj Mahal,Uttar Pradesh,Historical,8.250898706,Nov-Feb,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+467,Goa Beaches,Goa,Beach,8.025486409,Nov-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+468,Jaipur City,Rajasthan,City,9.479101518,Oct-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+469,Kerala Backwaters,Kerala,Nature,8.661784765,Sep-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+470,Leh Ladakh,Jammu and Kashmir,Adventure,8.931950952,Apr-Jun,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+471,Taj Mahal,Uttar Pradesh,Historical,9.431015219,Nov-Feb,A historical wonder,20-03-2024,1,"City, Historical"
+472,Goa Beaches,Goa,Beach,9.276219098,Nov-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+473,Jaipur City,Rajasthan,City,8.138557734,Oct-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+474,Kerala Backwaters,Kerala,Nature,7.780303814,Sep-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+475,Leh Ladakh,Jammu and Kashmir,Adventure,8.439314464,Apr-Jun,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+476,Taj Mahal,Uttar Pradesh,Historical,8.593932856,Nov-Feb,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+477,Goa Beaches,Goa,Beach,9.061411819,Nov-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+478,Jaipur City,Rajasthan,City,8.74602754,Oct-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+479,Kerala Backwaters,Kerala,Nature,8.432522163,Sep-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+480,Leh Ladakh,Jammu and Kashmir,Adventure,9.183226467,Apr-Jun,A historical wonder,20-03-2024,5,"City, Historical"
+481,Taj Mahal,Uttar Pradesh,Historical,8.347502108,Nov-Feb,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+482,Goa Beaches,Goa,Beach,7.948762857,Nov-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+483,Jaipur City,Rajasthan,City,9.187132542,Oct-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+484,Kerala Backwaters,Kerala,Nature,8.361380336,Sep-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+485,Leh Ladakh,Jammu and Kashmir,Adventure,9.307482015,Apr-Jun,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+486,Taj Mahal,Uttar Pradesh,Historical,9.250030402,Nov-Feb,A historical wonder,20-03-2024,1,"City, Historical"
+487,Goa Beaches,Goa,Beach,8.062331361,Nov-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+488,Jaipur City,Rajasthan,City,8.654607164,Oct-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+489,Kerala Backwaters,Kerala,Nature,8.633724983,Sep-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+490,Leh Ladakh,Jammu and Kashmir,Adventure,8.387349596,Apr-Jun,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+491,Taj Mahal,Uttar Pradesh,Historical,8.208032333,Nov-Feb,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+492,Goa Beaches,Goa,Beach,8.128286959,Nov-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+493,Jaipur City,Rajasthan,City,8.878936494,Oct-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+494,Kerala Backwaters,Kerala,Nature,8.93781254,Sep-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+495,Leh Ladakh,Jammu and Kashmir,Adventure,8.414265881,Apr-Jun,A historical wonder,20-03-2024,1,"City, Historical"
+496,Taj Mahal,Uttar Pradesh,Historical,8.265509612,Nov-Feb,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+497,Goa Beaches,Goa,Beach,8.698828828,Nov-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+498,Jaipur City,Rajasthan,City,9.324413282,Oct-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+499,Kerala Backwaters,Kerala,Nature,9.264964763,Sep-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+500,Leh Ladakh,Jammu and Kashmir,Adventure,8.940107798,Apr-Jun,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+501,Taj Mahal,Uttar Pradesh,Historical,8.437797979,Nov-Feb,A historical wonder,20-03-2024,2,"City, Historical"
+502,Goa Beaches,Goa,Beach,9.314545773,Nov-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+503,Jaipur City,Rajasthan,City,8.918823544,Oct-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+504,Kerala Backwaters,Kerala,Nature,7.992592263,Sep-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+505,Leh Ladakh,Jammu and Kashmir,Adventure,8.078697969,Apr-Jun,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+506,Taj Mahal,Uttar Pradesh,Historical,8.510029536,Nov-Feb,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+507,Goa Beaches,Goa,Beach,8.240547501,Nov-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+508,Jaipur City,Rajasthan,City,9.435963382,Oct-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+509,Kerala Backwaters,Kerala,Nature,9.252045522,Sep-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+510,Leh Ladakh,Jammu and Kashmir,Adventure,9.380186804,Apr-Jun,A historical wonder,20-03-2024,1,"City, Historical"
+511,Taj Mahal,Uttar Pradesh,Historical,9.219575249,Nov-Feb,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+512,Goa Beaches,Goa,Beach,9.222486405,Nov-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+513,Jaipur City,Rajasthan,City,9.319083493,Oct-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+514,Kerala Backwaters,Kerala,Nature,7.980635862,Sep-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+515,Leh Ladakh,Jammu and Kashmir,Adventure,9.481318667,Apr-Jun,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+516,Taj Mahal,Uttar Pradesh,Historical,7.890656668,Nov-Feb,A historical wonder,20-03-2024,5,"City, Historical"
+517,Goa Beaches,Goa,Beach,8.715019439,Nov-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+518,Jaipur City,Rajasthan,City,8.927901484,Oct-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+519,Kerala Backwaters,Kerala,Nature,7.772507901,Sep-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+520,Leh Ladakh,Jammu and Kashmir,Adventure,8.521876495,Apr-Jun,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+521,Taj Mahal,Uttar Pradesh,Historical,9.073609022,Nov-Feb,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+522,Goa Beaches,Goa,Beach,8.486706785,Nov-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+523,Jaipur City,Rajasthan,City,8.998307151,Oct-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+524,Kerala Backwaters,Kerala,Nature,8.20745617,Sep-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+525,Leh Ladakh,Jammu and Kashmir,Adventure,8.090624069,Apr-Jun,A historical wonder,20-03-2024,1,"City, Historical"
+526,Taj Mahal,Uttar Pradesh,Historical,8.798076955,Nov-Feb,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+527,Goa Beaches,Goa,Beach,9.240920637,Nov-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+528,Jaipur City,Rajasthan,City,8.564171558,Oct-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+529,Kerala Backwaters,Kerala,Nature,7.726465987,Sep-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+530,Leh Ladakh,Jammu and Kashmir,Adventure,9.135320167,Apr-Jun,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+531,Taj Mahal,Uttar Pradesh,Historical,7.819012403,Nov-Feb,A historical wonder,20-03-2024,3,"City, Historical"
+532,Goa Beaches,Goa,Beach,8.988127174,Nov-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+533,Jaipur City,Rajasthan,City,7.692409735,Oct-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+534,Kerala Backwaters,Kerala,Nature,8.181851283,Sep-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+535,Leh Ladakh,Jammu and Kashmir,Adventure,9.17762404,Apr-Jun,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+536,Taj Mahal,Uttar Pradesh,Historical,9.056460846,Nov-Feb,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+537,Goa Beaches,Goa,Beach,9.187047298,Nov-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+538,Jaipur City,Rajasthan,City,8.612909578,Oct-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+539,Kerala Backwaters,Kerala,Nature,8.945958184,Sep-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+540,Leh Ladakh,Jammu and Kashmir,Adventure,8.310861661,Apr-Jun,A historical wonder,20-03-2024,4,"City, Historical"
+541,Taj Mahal,Uttar Pradesh,Historical,8.299700199,Nov-Feb,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+542,Goa Beaches,Goa,Beach,8.68210175,Nov-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+543,Jaipur City,Rajasthan,City,8.997155931,Oct-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+544,Kerala Backwaters,Kerala,Nature,8.517940732,Sep-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+545,Leh Ladakh,Jammu and Kashmir,Adventure,7.661289356,Apr-Jun,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+546,Taj Mahal,Uttar Pradesh,Historical,8.994067311,Nov-Feb,A historical wonder,20-03-2024,5,"City, Historical"
+547,Goa Beaches,Goa,Beach,8.645510419,Nov-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+548,Jaipur City,Rajasthan,City,8.086168022,Oct-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+549,Kerala Backwaters,Kerala,Nature,9.251772001,Sep-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+550,Leh Ladakh,Jammu and Kashmir,Adventure,8.747376071,Apr-Jun,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+551,Taj Mahal,Uttar Pradesh,Historical,8.374491709,Nov-Feb,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+552,Goa Beaches,Goa,Beach,8.56499898,Nov-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+553,Jaipur City,Rajasthan,City,9.401317818,Oct-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+554,Kerala Backwaters,Kerala,Nature,9.025943211,Sep-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+555,Leh Ladakh,Jammu and Kashmir,Adventure,9.042176517,Apr-Jun,A historical wonder,20-03-2024,1,"City, Historical"
+556,Taj Mahal,Uttar Pradesh,Historical,7.703776811,Nov-Feb,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+557,Goa Beaches,Goa,Beach,8.67218513,Nov-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+558,Jaipur City,Rajasthan,City,9.113897124,Oct-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+559,Kerala Backwaters,Kerala,Nature,8.653271522,Sep-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+560,Leh Ladakh,Jammu and Kashmir,Adventure,9.252519204,Apr-Jun,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+561,Taj Mahal,Uttar Pradesh,Historical,9.456850744,Nov-Feb,A historical wonder,20-03-2024,4,"City, Historical"
+562,Goa Beaches,Goa,Beach,9.310527199,Nov-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+563,Jaipur City,Rajasthan,City,7.952541969,Oct-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+564,Kerala Backwaters,Kerala,Nature,8.870130228,Sep-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+565,Leh Ladakh,Jammu and Kashmir,Adventure,8.478803438,Apr-Jun,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+566,Taj Mahal,Uttar Pradesh,Historical,7.567818753,Nov-Feb,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+567,Goa Beaches,Goa,Beach,9.187761001,Nov-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+568,Jaipur City,Rajasthan,City,8.248703528,Oct-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+569,Kerala Backwaters,Kerala,Nature,9.000157282,Sep-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+570,Leh Ladakh,Jammu and Kashmir,Adventure,7.748348707,Apr-Jun,A historical wonder,20-03-2024,2,"City, Historical"
+571,Taj Mahal,Uttar Pradesh,Historical,9.193226492,Nov-Feb,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+572,Goa Beaches,Goa,Beach,8.292439606,Nov-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+573,Jaipur City,Rajasthan,City,9.155604744,Oct-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+574,Kerala Backwaters,Kerala,Nature,7.553270853,Sep-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+575,Leh Ladakh,Jammu and Kashmir,Adventure,8.419067682,Apr-Jun,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+576,Taj Mahal,Uttar Pradesh,Historical,8.450301921,Nov-Feb,A historical wonder,20-03-2024,1,"City, Historical"
+577,Goa Beaches,Goa,Beach,8.207209291,Nov-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+578,Jaipur City,Rajasthan,City,8.205781817,Oct-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+579,Kerala Backwaters,Kerala,Nature,8.59875288,Sep-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+580,Leh Ladakh,Jammu and Kashmir,Adventure,8.99830559,Apr-Jun,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+581,Taj Mahal,Uttar Pradesh,Historical,9.015671518,Nov-Feb,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+582,Goa Beaches,Goa,Beach,7.779308047,Nov-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+583,Jaipur City,Rajasthan,City,8.456710702,Oct-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+584,Kerala Backwaters,Kerala,Nature,7.877125609,Sep-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+585,Leh Ladakh,Jammu and Kashmir,Adventure,8.937350085,Apr-Jun,A historical wonder,20-03-2024,4,"City, Historical"
+586,Taj Mahal,Uttar Pradesh,Historical,7.569722658,Nov-Feb,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+587,Goa Beaches,Goa,Beach,7.768523623,Nov-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+588,Jaipur City,Rajasthan,City,9.180141735,Oct-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+589,Kerala Backwaters,Kerala,Nature,9.427997306,Sep-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+590,Leh Ladakh,Jammu and Kashmir,Adventure,8.171090109,Apr-Jun,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+591,Taj Mahal,Uttar Pradesh,Historical,8.148297385,Nov-Feb,A historical wonder,20-03-2024,3,"City, Historical"
+592,Goa Beaches,Goa,Beach,9.168100701,Nov-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+593,Jaipur City,Rajasthan,City,9.468508271,Oct-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+594,Kerala Backwaters,Kerala,Nature,8.618563706,Sep-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+595,Leh Ladakh,Jammu and Kashmir,Adventure,9.446618128,Apr-Jun,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+596,Taj Mahal,Uttar Pradesh,Historical,7.865548979,Nov-Feb,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+597,Goa Beaches,Goa,Beach,7.735247906,Nov-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+598,Jaipur City,Rajasthan,City,7.754720779,Oct-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+599,Kerala Backwaters,Kerala,Nature,9.463041122,Sep-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+600,Leh Ladakh,Jammu and Kashmir,Adventure,9.390934664,Apr-Jun,A historical wonder,20-03-2024,3,"City, Historical"
+601,Taj Mahal,Uttar Pradesh,Historical,7.679434821,Nov-Feb,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+602,Goa Beaches,Goa,Beach,8.330784565,Nov-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+603,Jaipur City,Rajasthan,City,8.517017713,Oct-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+604,Kerala Backwaters,Kerala,Nature,9.298998287,Sep-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+605,Leh Ladakh,Jammu and Kashmir,Adventure,9.015692414,Apr-Jun,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+606,Taj Mahal,Uttar Pradesh,Historical,7.645870324,Nov-Feb,A historical wonder,20-03-2024,4,"City, Historical"
+607,Goa Beaches,Goa,Beach,7.652012351,Nov-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+608,Jaipur City,Rajasthan,City,8.443802952,Oct-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+609,Kerala Backwaters,Kerala,Nature,8.295686417,Sep-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+610,Leh Ladakh,Jammu and Kashmir,Adventure,7.940660734,Apr-Jun,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+611,Taj Mahal,Uttar Pradesh,Historical,9.342123928,Nov-Feb,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+612,Goa Beaches,Goa,Beach,7.582948969,Nov-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+613,Jaipur City,Rajasthan,City,7.893422692,Oct-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+614,Kerala Backwaters,Kerala,Nature,9.003574785,Sep-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+615,Leh Ladakh,Jammu and Kashmir,Adventure,8.810690634,Apr-Jun,A historical wonder,20-03-2024,4,"City, Historical"
+616,Taj Mahal,Uttar Pradesh,Historical,9.200376502,Nov-Feb,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+617,Goa Beaches,Goa,Beach,9.097017239,Nov-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+618,Jaipur City,Rajasthan,City,8.392153666,Oct-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+619,Kerala Backwaters,Kerala,Nature,9.434544322,Sep-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+620,Leh Ladakh,Jammu and Kashmir,Adventure,8.896288153,Apr-Jun,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+621,Taj Mahal,Uttar Pradesh,Historical,7.820265199,Nov-Feb,A historical wonder,20-03-2024,5,"City, Historical"
+622,Goa Beaches,Goa,Beach,8.642272298,Nov-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+623,Jaipur City,Rajasthan,City,7.809114532,Oct-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+624,Kerala Backwaters,Kerala,Nature,8.331131728,Sep-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+625,Leh Ladakh,Jammu and Kashmir,Adventure,8.352057126,Apr-Jun,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+626,Taj Mahal,Uttar Pradesh,Historical,7.649857558,Nov-Feb,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+627,Goa Beaches,Goa,Beach,7.949828337,Nov-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+628,Jaipur City,Rajasthan,City,9.283907838,Oct-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+629,Kerala Backwaters,Kerala,Nature,7.674024425,Sep-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+630,Leh Ladakh,Jammu and Kashmir,Adventure,9.264541565,Apr-Jun,A historical wonder,20-03-2024,2,"City, Historical"
+631,Taj Mahal,Uttar Pradesh,Historical,8.691737654,Nov-Feb,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+632,Goa Beaches,Goa,Beach,7.876158567,Nov-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+633,Jaipur City,Rajasthan,City,8.038341365,Oct-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+634,Kerala Backwaters,Kerala,Nature,8.330602251,Sep-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+635,Leh Ladakh,Jammu and Kashmir,Adventure,8.512680032,Apr-Jun,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+636,Taj Mahal,Uttar Pradesh,Historical,8.591103124,Nov-Feb,A historical wonder,20-03-2024,1,"City, Historical"
+637,Goa Beaches,Goa,Beach,9.155871192,Nov-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+638,Jaipur City,Rajasthan,City,9.31511956,Oct-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+639,Kerala Backwaters,Kerala,Nature,9.081925622,Sep-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+640,Leh Ladakh,Jammu and Kashmir,Adventure,8.009714715,Apr-Jun,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+641,Taj Mahal,Uttar Pradesh,Historical,8.559749377,Nov-Feb,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+642,Goa Beaches,Goa,Beach,9.30470555,Nov-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+643,Jaipur City,Rajasthan,City,9.300321813,Oct-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+644,Kerala Backwaters,Kerala,Nature,9.189377296,Sep-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+645,Leh Ladakh,Jammu and Kashmir,Adventure,9.161029661,Apr-Jun,A historical wonder,20-03-2024,2,"City, Historical"
+646,Taj Mahal,Uttar Pradesh,Historical,8.903494513,Nov-Feb,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+647,Goa Beaches,Goa,Beach,9.008751898,Nov-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+648,Jaipur City,Rajasthan,City,8.771306422,Oct-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+649,Kerala Backwaters,Kerala,Nature,8.167683021,Sep-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+650,Leh Ladakh,Jammu and Kashmir,Adventure,8.204607884,Apr-Jun,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+651,Taj Mahal,Uttar Pradesh,Historical,9.464391796,Nov-Feb,A historical wonder,20-03-2024,1,"City, Historical"
+652,Goa Beaches,Goa,Beach,7.956162813,Nov-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+653,Jaipur City,Rajasthan,City,9.496920385,Oct-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+654,Kerala Backwaters,Kerala,Nature,8.441880662,Sep-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+655,Leh Ladakh,Jammu and Kashmir,Adventure,8.76970521,Apr-Jun,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+656,Taj Mahal,Uttar Pradesh,Historical,9.032216296,Nov-Feb,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+657,Goa Beaches,Goa,Beach,9.350623283,Nov-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+658,Jaipur City,Rajasthan,City,9.008048228,Oct-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+659,Kerala Backwaters,Kerala,Nature,7.991928056,Sep-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+660,Leh Ladakh,Jammu and Kashmir,Adventure,7.923387964,Apr-Jun,A historical wonder,20-03-2024,5,"City, Historical"
+661,Taj Mahal,Uttar Pradesh,Historical,9.3495136,Nov-Feb,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+662,Goa Beaches,Goa,Beach,7.848867269,Nov-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+663,Jaipur City,Rajasthan,City,8.822604312,Oct-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+664,Kerala Backwaters,Kerala,Nature,7.975932403,Sep-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+665,Leh Ladakh,Jammu and Kashmir,Adventure,8.175473129,Apr-Jun,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+666,Taj Mahal,Uttar Pradesh,Historical,8.535347955,Nov-Feb,A historical wonder,20-03-2024,4,"City, Historical"
+667,Goa Beaches,Goa,Beach,7.970160845,Nov-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+668,Jaipur City,Rajasthan,City,7.593849734,Oct-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+669,Kerala Backwaters,Kerala,Nature,7.84062243,Sep-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+670,Leh Ladakh,Jammu and Kashmir,Adventure,7.809939226,Apr-Jun,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+671,Taj Mahal,Uttar Pradesh,Historical,9.406991631,Nov-Feb,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+672,Goa Beaches,Goa,Beach,7.68733681,Nov-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+673,Jaipur City,Rajasthan,City,7.81840781,Oct-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+674,Kerala Backwaters,Kerala,Nature,8.000500722,Sep-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+675,Leh Ladakh,Jammu and Kashmir,Adventure,8.944718004,Apr-Jun,A historical wonder,20-03-2024,4,"City, Historical"
+676,Taj Mahal,Uttar Pradesh,Historical,9.263552559,Nov-Feb,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+677,Goa Beaches,Goa,Beach,8.565346616,Nov-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+678,Jaipur City,Rajasthan,City,8.104480471,Oct-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+679,Kerala Backwaters,Kerala,Nature,7.841584037,Sep-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+680,Leh Ladakh,Jammu and Kashmir,Adventure,9.159638354,Apr-Jun,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+681,Taj Mahal,Uttar Pradesh,Historical,8.748130653,Nov-Feb,A historical wonder,20-03-2024,2,"City, Historical"
+682,Goa Beaches,Goa,Beach,8.577900963,Nov-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+683,Jaipur City,Rajasthan,City,8.41904082,Oct-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+684,Kerala Backwaters,Kerala,Nature,9.465996075,Sep-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+685,Leh Ladakh,Jammu and Kashmir,Adventure,7.598827165,Apr-Jun,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+686,Taj Mahal,Uttar Pradesh,Historical,8.260858752,Nov-Feb,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+687,Goa Beaches,Goa,Beach,8.036441482,Nov-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+688,Jaipur City,Rajasthan,City,8.056619012,Oct-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+689,Kerala Backwaters,Kerala,Nature,8.133852314,Sep-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+690,Leh Ladakh,Jammu and Kashmir,Adventure,8.195260135,Apr-Jun,A historical wonder,20-03-2024,4,"City, Historical"
+691,Taj Mahal,Uttar Pradesh,Historical,8.887068417,Nov-Feb,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+692,Goa Beaches,Goa,Beach,8.822980009,Nov-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+693,Jaipur City,Rajasthan,City,8.397475309,Oct-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+694,Kerala Backwaters,Kerala,Nature,9.227763246,Sep-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+695,Leh Ladakh,Jammu and Kashmir,Adventure,9.288646089,Apr-Jun,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+696,Taj Mahal,Uttar Pradesh,Historical,8.627961322,Nov-Feb,A historical wonder,20-03-2024,5,"City, Historical"
+697,Goa Beaches,Goa,Beach,8.419227436,Nov-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+698,Jaipur City,Rajasthan,City,8.305889899,Oct-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+699,Kerala Backwaters,Kerala,Nature,7.656962614,Sep-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+700,Leh Ladakh,Jammu and Kashmir,Adventure,8.878652899,Apr-Jun,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+701,Taj Mahal,Uttar Pradesh,Historical,8.814028636,Nov-Feb,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+702,Goa Beaches,Goa,Beach,9.111768717,Nov-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+703,Jaipur City,Rajasthan,City,8.563698042,Oct-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+704,Kerala Backwaters,Kerala,Nature,7.917510992,Sep-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+705,Leh Ladakh,Jammu and Kashmir,Adventure,8.371945151,Apr-Jun,A historical wonder,20-03-2024,4,"City, Historical"
+706,Taj Mahal,Uttar Pradesh,Historical,9.02374639,Nov-Feb,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+707,Goa Beaches,Goa,Beach,8.62911875,Nov-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+708,Jaipur City,Rajasthan,City,8.844219598,Oct-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+709,Kerala Backwaters,Kerala,Nature,9.155527396,Sep-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+710,Leh Ladakh,Jammu and Kashmir,Adventure,9.031524747,Apr-Jun,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+711,Taj Mahal,Uttar Pradesh,Historical,8.636551596,Nov-Feb,A historical wonder,20-03-2024,5,"City, Historical"
+712,Goa Beaches,Goa,Beach,8.810464389,Nov-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+713,Jaipur City,Rajasthan,City,8.244553687,Oct-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+714,Kerala Backwaters,Kerala,Nature,8.655670235,Sep-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+715,Leh Ladakh,Jammu and Kashmir,Adventure,8.402277983,Apr-Jun,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+716,Taj Mahal,Uttar Pradesh,Historical,8.878654588,Nov-Feb,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+717,Goa Beaches,Goa,Beach,8.367306496,Nov-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+718,Jaipur City,Rajasthan,City,9.203460228,Oct-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+719,Kerala Backwaters,Kerala,Nature,8.603678777,Sep-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+720,Leh Ladakh,Jammu and Kashmir,Adventure,8.034817273,Apr-Jun,A historical wonder,20-03-2024,2,"City, Historical"
+721,Taj Mahal,Uttar Pradesh,Historical,8.93163212,Nov-Feb,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+722,Goa Beaches,Goa,Beach,9.389779698,Nov-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+723,Jaipur City,Rajasthan,City,8.279131952,Oct-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+724,Kerala Backwaters,Kerala,Nature,7.925686613,Sep-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+725,Leh Ladakh,Jammu and Kashmir,Adventure,9.339552233,Apr-Jun,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+726,Taj Mahal,Uttar Pradesh,Historical,8.182156496,Nov-Feb,A historical wonder,20-03-2024,1,"City, Historical"
+727,Goa Beaches,Goa,Beach,7.714387335,Nov-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+728,Jaipur City,Rajasthan,City,9.099305628,Oct-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+729,Kerala Backwaters,Kerala,Nature,8.569879157,Sep-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+730,Leh Ladakh,Jammu and Kashmir,Adventure,7.89627217,Apr-Jun,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+731,Taj Mahal,Uttar Pradesh,Historical,9.206443213,Nov-Feb,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+732,Goa Beaches,Goa,Beach,8.465381843,Nov-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+733,Jaipur City,Rajasthan,City,8.703584274,Oct-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+734,Kerala Backwaters,Kerala,Nature,8.248600726,Sep-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+735,Leh Ladakh,Jammu and Kashmir,Adventure,8.514869186,Apr-Jun,A historical wonder,20-03-2024,1,"City, Historical"
+736,Taj Mahal,Uttar Pradesh,Historical,9.088805186,Nov-Feb,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+737,Goa Beaches,Goa,Beach,9.413701354,Nov-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+738,Jaipur City,Rajasthan,City,8.053822692,Oct-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+739,Kerala Backwaters,Kerala,Nature,8.372037386,Sep-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+740,Leh Ladakh,Jammu and Kashmir,Adventure,9.263891739,Apr-Jun,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+741,Taj Mahal,Uttar Pradesh,Historical,7.727775532,Nov-Feb,A historical wonder,20-03-2024,1,"City, Historical"
+742,Goa Beaches,Goa,Beach,8.532765537,Nov-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+743,Jaipur City,Rajasthan,City,7.727596682,Oct-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+744,Kerala Backwaters,Kerala,Nature,8.203211682,Sep-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+745,Leh Ladakh,Jammu and Kashmir,Adventure,7.933373925,Apr-Jun,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+746,Taj Mahal,Uttar Pradesh,Historical,9.059361289,Nov-Feb,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+747,Goa Beaches,Goa,Beach,8.35090682,Nov-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+748,Jaipur City,Rajasthan,City,8.719936426,Oct-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+749,Kerala Backwaters,Kerala,Nature,8.93173656,Sep-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+750,Leh Ladakh,Jammu and Kashmir,Adventure,8.956458953,Apr-Jun,A historical wonder,20-03-2024,3,"City, Historical"
+751,Taj Mahal,Uttar Pradesh,Historical,7.790538404,Nov-Feb,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+752,Goa Beaches,Goa,Beach,8.539108136,Nov-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+753,Jaipur City,Rajasthan,City,8.594748337,Oct-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+754,Kerala Backwaters,Kerala,Nature,8.084015245,Sep-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+755,Leh Ladakh,Jammu and Kashmir,Adventure,7.734281734,Apr-Jun,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+756,Taj Mahal,Uttar Pradesh,Historical,8.547608275,Nov-Feb,A historical wonder,20-03-2024,4,"City, Historical"
+757,Goa Beaches,Goa,Beach,7.644463431,Nov-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+758,Jaipur City,Rajasthan,City,9.121395353,Oct-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+759,Kerala Backwaters,Kerala,Nature,8.727517592,Sep-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+760,Leh Ladakh,Jammu and Kashmir,Adventure,8.352180026,Apr-Jun,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+761,Taj Mahal,Uttar Pradesh,Historical,9.360142316,Nov-Feb,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+762,Goa Beaches,Goa,Beach,8.1478115,Nov-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+763,Jaipur City,Rajasthan,City,8.902575504,Oct-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+764,Kerala Backwaters,Kerala,Nature,8.50672406,Sep-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+765,Leh Ladakh,Jammu and Kashmir,Adventure,8.624586257,Apr-Jun,A historical wonder,20-03-2024,1,"City, Historical"
+766,Taj Mahal,Uttar Pradesh,Historical,8.145328815,Nov-Feb,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+767,Goa Beaches,Goa,Beach,8.243622218,Nov-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+768,Jaipur City,Rajasthan,City,7.59663444,Oct-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+769,Kerala Backwaters,Kerala,Nature,7.576635983,Sep-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+770,Leh Ladakh,Jammu and Kashmir,Adventure,9.0810296,Apr-Jun,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+771,Taj Mahal,Uttar Pradesh,Historical,8.129988977,Nov-Feb,A historical wonder,20-03-2024,5,"City, Historical"
+772,Goa Beaches,Goa,Beach,9.137327132,Nov-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+773,Jaipur City,Rajasthan,City,8.784997932,Oct-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+774,Kerala Backwaters,Kerala,Nature,8.038663649,Sep-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+775,Leh Ladakh,Jammu and Kashmir,Adventure,8.079156318,Apr-Jun,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+776,Taj Mahal,Uttar Pradesh,Historical,8.459363313,Nov-Feb,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+777,Goa Beaches,Goa,Beach,9.046231352,Nov-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+778,Jaipur City,Rajasthan,City,9.200907306,Oct-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+779,Kerala Backwaters,Kerala,Nature,8.861507016,Sep-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+780,Leh Ladakh,Jammu and Kashmir,Adventure,9.291685938,Apr-Jun,A historical wonder,20-03-2024,5,"City, Historical"
+781,Taj Mahal,Uttar Pradesh,Historical,8.531079522,Nov-Feb,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+782,Goa Beaches,Goa,Beach,8.997832251,Nov-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+783,Jaipur City,Rajasthan,City,8.528348194,Oct-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+784,Kerala Backwaters,Kerala,Nature,8.31788274,Sep-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+785,Leh Ladakh,Jammu and Kashmir,Adventure,9.366933345,Apr-Jun,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+786,Taj Mahal,Uttar Pradesh,Historical,8.389205905,Nov-Feb,A historical wonder,20-03-2024,2,"City, Historical"
+787,Goa Beaches,Goa,Beach,9.44212563,Nov-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+788,Jaipur City,Rajasthan,City,8.223627063,Oct-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+789,Kerala Backwaters,Kerala,Nature,8.174235795,Sep-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+790,Leh Ladakh,Jammu and Kashmir,Adventure,9.157720702,Apr-Jun,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+791,Taj Mahal,Uttar Pradesh,Historical,9.421688098,Nov-Feb,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+792,Goa Beaches,Goa,Beach,7.505628741,Nov-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+793,Jaipur City,Rajasthan,City,7.78158026,Oct-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+794,Kerala Backwaters,Kerala,Nature,8.531159788,Sep-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+795,Leh Ladakh,Jammu and Kashmir,Adventure,8.189514728,Apr-Jun,A historical wonder,20-03-2024,5,"City, Historical"
+796,Taj Mahal,Uttar Pradesh,Historical,9.243698789,Nov-Feb,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+797,Goa Beaches,Goa,Beach,9.120638441,Nov-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+798,Jaipur City,Rajasthan,City,7.608875043,Oct-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+799,Kerala Backwaters,Kerala,Nature,9.078902378,Sep-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+800,Leh Ladakh,Jammu and Kashmir,Adventure,7.97203091,Apr-Jun,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+801,Taj Mahal,Uttar Pradesh,Historical,9.157148626,Nov-Feb,A historical wonder,20-03-2024,4,"City, Historical"
+802,Goa Beaches,Goa,Beach,9.410831094,Nov-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+803,Jaipur City,Rajasthan,City,9.310459572,Oct-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+804,Kerala Backwaters,Kerala,Nature,8.208242453,Sep-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+805,Leh Ladakh,Jammu and Kashmir,Adventure,8.41014171,Apr-Jun,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+806,Taj Mahal,Uttar Pradesh,Historical,8.576757877,Nov-Feb,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+807,Goa Beaches,Goa,Beach,9.17899403,Nov-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+808,Jaipur City,Rajasthan,City,8.014068811,Oct-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+809,Kerala Backwaters,Kerala,Nature,7.84425667,Sep-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+810,Leh Ladakh,Jammu and Kashmir,Adventure,8.161053311,Apr-Jun,A historical wonder,20-03-2024,3,"City, Historical"
+811,Taj Mahal,Uttar Pradesh,Historical,9.393805813,Nov-Feb,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+812,Goa Beaches,Goa,Beach,9.00678474,Nov-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+813,Jaipur City,Rajasthan,City,8.336255249,Oct-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+814,Kerala Backwaters,Kerala,Nature,7.589205999,Sep-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+815,Leh Ladakh,Jammu and Kashmir,Adventure,9.220824441,Apr-Jun,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+816,Taj Mahal,Uttar Pradesh,Historical,9.423987379,Nov-Feb,A historical wonder,20-03-2024,1,"City, Historical"
+817,Goa Beaches,Goa,Beach,7.999026975,Nov-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+818,Jaipur City,Rajasthan,City,8.385706717,Oct-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+819,Kerala Backwaters,Kerala,Nature,7.562622504,Sep-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+820,Leh Ladakh,Jammu and Kashmir,Adventure,8.772244497,Apr-Jun,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+821,Taj Mahal,Uttar Pradesh,Historical,8.853137683,Nov-Feb,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+822,Goa Beaches,Goa,Beach,9.228896756,Nov-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+823,Jaipur City,Rajasthan,City,8.501224869,Oct-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+824,Kerala Backwaters,Kerala,Nature,9.206043311,Sep-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+825,Leh Ladakh,Jammu and Kashmir,Adventure,7.943715894,Apr-Jun,A historical wonder,20-03-2024,3,"City, Historical"
+826,Taj Mahal,Uttar Pradesh,Historical,8.277156854,Nov-Feb,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+827,Goa Beaches,Goa,Beach,8.377495779,Nov-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+828,Jaipur City,Rajasthan,City,7.804063905,Oct-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+829,Kerala Backwaters,Kerala,Nature,9.073371867,Sep-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+830,Leh Ladakh,Jammu and Kashmir,Adventure,7.928094923,Apr-Jun,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+831,Taj Mahal,Uttar Pradesh,Historical,8.771961835,Nov-Feb,A historical wonder,20-03-2024,5,"City, Historical"
+832,Goa Beaches,Goa,Beach,9.366867008,Nov-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+833,Jaipur City,Rajasthan,City,7.976891811,Oct-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+834,Kerala Backwaters,Kerala,Nature,8.329340966,Sep-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+835,Leh Ladakh,Jammu and Kashmir,Adventure,8.622267855,Apr-Jun,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+836,Taj Mahal,Uttar Pradesh,Historical,7.789458969,Nov-Feb,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+837,Goa Beaches,Goa,Beach,9.492706285,Nov-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+838,Jaipur City,Rajasthan,City,7.651189907,Oct-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+839,Kerala Backwaters,Kerala,Nature,9.196737201,Sep-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+840,Leh Ladakh,Jammu and Kashmir,Adventure,7.933518733,Apr-Jun,A historical wonder,20-03-2024,3,"City, Historical"
+841,Taj Mahal,Uttar Pradesh,Historical,8.641198251,Nov-Feb,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+842,Goa Beaches,Goa,Beach,8.784629096,Nov-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+843,Jaipur City,Rajasthan,City,9.191194973,Oct-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+844,Kerala Backwaters,Kerala,Nature,9.173580627,Sep-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+845,Leh Ladakh,Jammu and Kashmir,Adventure,8.66944927,Apr-Jun,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+846,Taj Mahal,Uttar Pradesh,Historical,8.971338259,Nov-Feb,A historical wonder,20-03-2024,3,"City, Historical"
+847,Goa Beaches,Goa,Beach,7.790585198,Nov-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+848,Jaipur City,Rajasthan,City,9.029919743,Oct-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+849,Kerala Backwaters,Kerala,Nature,8.749274376,Sep-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+850,Leh Ladakh,Jammu and Kashmir,Adventure,8.644911366,Apr-Jun,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+851,Taj Mahal,Uttar Pradesh,Historical,9.335441126,Nov-Feb,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+852,Goa Beaches,Goa,Beach,8.287492092,Nov-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+853,Jaipur City,Rajasthan,City,9.046944772,Oct-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+854,Kerala Backwaters,Kerala,Nature,9.338103885,Sep-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+855,Leh Ladakh,Jammu and Kashmir,Adventure,8.913268955,Apr-Jun,A historical wonder,20-03-2024,1,"City, Historical"
+856,Taj Mahal,Uttar Pradesh,Historical,7.668691909,Nov-Feb,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+857,Goa Beaches,Goa,Beach,9.027677155,Nov-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+858,Jaipur City,Rajasthan,City,8.491365338,Oct-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+859,Kerala Backwaters,Kerala,Nature,7.921623279,Sep-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+860,Leh Ladakh,Jammu and Kashmir,Adventure,7.720224496,Apr-Jun,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+861,Taj Mahal,Uttar Pradesh,Historical,7.824049108,Nov-Feb,A historical wonder,20-03-2024,3,"City, Historical"
+862,Goa Beaches,Goa,Beach,8.527437467,Nov-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+863,Jaipur City,Rajasthan,City,7.528856525,Oct-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+864,Kerala Backwaters,Kerala,Nature,9.147968243,Sep-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+865,Leh Ladakh,Jammu and Kashmir,Adventure,8.989187748,Apr-Jun,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+866,Taj Mahal,Uttar Pradesh,Historical,8.157522251,Nov-Feb,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+867,Goa Beaches,Goa,Beach,7.54478424,Nov-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+868,Jaipur City,Rajasthan,City,8.498230857,Oct-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+869,Kerala Backwaters,Kerala,Nature,7.677870327,Sep-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+870,Leh Ladakh,Jammu and Kashmir,Adventure,8.316623635,Apr-Jun,A historical wonder,20-03-2024,1,"City, Historical"
+871,Taj Mahal,Uttar Pradesh,Historical,7.643206988,Nov-Feb,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+872,Goa Beaches,Goa,Beach,9.413328344,Nov-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+873,Jaipur City,Rajasthan,City,9.231967797,Oct-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+874,Kerala Backwaters,Kerala,Nature,8.671636575,Sep-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+875,Leh Ladakh,Jammu and Kashmir,Adventure,8.982970017,Apr-Jun,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+876,Taj Mahal,Uttar Pradesh,Historical,8.796715429,Nov-Feb,A historical wonder,20-03-2024,3,"City, Historical"
+877,Goa Beaches,Goa,Beach,7.911432524,Nov-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+878,Jaipur City,Rajasthan,City,7.601483088,Oct-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+879,Kerala Backwaters,Kerala,Nature,8.309631134,Sep-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+880,Leh Ladakh,Jammu and Kashmir,Adventure,8.442750358,Apr-Jun,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+881,Taj Mahal,Uttar Pradesh,Historical,8.27829177,Nov-Feb,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+882,Goa Beaches,Goa,Beach,8.449238006,Nov-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+883,Jaipur City,Rajasthan,City,7.954942388,Oct-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+884,Kerala Backwaters,Kerala,Nature,9.241444803,Sep-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+885,Leh Ladakh,Jammu and Kashmir,Adventure,9.031913943,Apr-Jun,A historical wonder,20-03-2024,2,"City, Historical"
+886,Taj Mahal,Uttar Pradesh,Historical,7.713067195,Nov-Feb,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+887,Goa Beaches,Goa,Beach,7.590325473,Nov-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+888,Jaipur City,Rajasthan,City,8.968588467,Oct-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+889,Kerala Backwaters,Kerala,Nature,9.002930521,Sep-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+890,Leh Ladakh,Jammu and Kashmir,Adventure,7.743039575,Apr-Jun,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+891,Taj Mahal,Uttar Pradesh,Historical,9.223991095,Nov-Feb,A historical wonder,20-03-2024,3,"City, Historical"
+892,Goa Beaches,Goa,Beach,8.864328395,Nov-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+893,Jaipur City,Rajasthan,City,8.375786034,Oct-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+894,Kerala Backwaters,Kerala,Nature,8.815596905,Sep-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+895,Leh Ladakh,Jammu and Kashmir,Adventure,8.011096327,Apr-Jun,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+896,Taj Mahal,Uttar Pradesh,Historical,8.775168604,Nov-Feb,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+897,Goa Beaches,Goa,Beach,8.342976754,Nov-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+898,Jaipur City,Rajasthan,City,8.311533772,Oct-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+899,Kerala Backwaters,Kerala,Nature,8.57530472,Sep-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+900,Leh Ladakh,Jammu and Kashmir,Adventure,8.81228743,Apr-Jun,A historical wonder,20-03-2024,1,"City, Historical"
+901,Taj Mahal,Uttar Pradesh,Historical,7.943843806,Nov-Feb,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+902,Goa Beaches,Goa,Beach,9.115849499,Nov-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+903,Jaipur City,Rajasthan,City,8.253494746,Oct-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+904,Kerala Backwaters,Kerala,Nature,8.574376628,Sep-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+905,Leh Ladakh,Jammu and Kashmir,Adventure,8.13644499,Apr-Jun,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+906,Taj Mahal,Uttar Pradesh,Historical,8.619770095,Nov-Feb,A historical wonder,20-03-2024,4,"City, Historical"
+907,Goa Beaches,Goa,Beach,8.069149587,Nov-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+908,Jaipur City,Rajasthan,City,8.452641011,Oct-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+909,Kerala Backwaters,Kerala,Nature,8.74040067,Sep-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+910,Leh Ladakh,Jammu and Kashmir,Adventure,8.569335477,Apr-Jun,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+911,Taj Mahal,Uttar Pradesh,Historical,7.685181358,Nov-Feb,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+912,Goa Beaches,Goa,Beach,9.438013884,Nov-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+913,Jaipur City,Rajasthan,City,7.588014606,Oct-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+914,Kerala Backwaters,Kerala,Nature,9.285417261,Sep-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+915,Leh Ladakh,Jammu and Kashmir,Adventure,7.851121958,Apr-Jun,A historical wonder,20-03-2024,1,"City, Historical"
+916,Taj Mahal,Uttar Pradesh,Historical,9.396761498,Nov-Feb,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+917,Goa Beaches,Goa,Beach,7.545108072,Nov-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+918,Jaipur City,Rajasthan,City,9.371201914,Oct-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+919,Kerala Backwaters,Kerala,Nature,9.252136618,Sep-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+920,Leh Ladakh,Jammu and Kashmir,Adventure,7.58467963,Apr-Jun,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+921,Taj Mahal,Uttar Pradesh,Historical,8.685684923,Nov-Feb,A historical wonder,20-03-2024,2,"City, Historical"
+922,Goa Beaches,Goa,Beach,9.298024385,Nov-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+923,Jaipur City,Rajasthan,City,7.821684369,Oct-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+924,Kerala Backwaters,Kerala,Nature,8.644015149,Sep-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+925,Leh Ladakh,Jammu and Kashmir,Adventure,7.801125565,Apr-Jun,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+926,Taj Mahal,Uttar Pradesh,Historical,8.324741876,Nov-Feb,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+927,Goa Beaches,Goa,Beach,7.741214134,Nov-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+928,Jaipur City,Rajasthan,City,8.026833744,Oct-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+929,Kerala Backwaters,Kerala,Nature,8.663189053,Sep-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+930,Leh Ladakh,Jammu and Kashmir,Adventure,8.54331106,Apr-Jun,A historical wonder,20-03-2024,2,"City, Historical"
+931,Taj Mahal,Uttar Pradesh,Historical,9.309322897,Nov-Feb,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+932,Goa Beaches,Goa,Beach,7.93600433,Nov-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+933,Jaipur City,Rajasthan,City,9.274200566,Oct-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+934,Kerala Backwaters,Kerala,Nature,7.904577589,Sep-Mar,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+935,Leh Ladakh,Jammu and Kashmir,Adventure,8.473490132,Apr-Jun,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+936,Taj Mahal,Uttar Pradesh,Historical,8.020558973,Nov-Feb,A historical wonder,20-03-2024,1,"City, Historical"
+937,Goa Beaches,Goa,Beach,8.257655226,Nov-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+938,Jaipur City,Rajasthan,City,9.206080667,Oct-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+939,Kerala Backwaters,Kerala,Nature,8.408724187,Sep-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+940,Leh Ladakh,Jammu and Kashmir,Adventure,7.73770749,Apr-Jun,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+941,Taj Mahal,Uttar Pradesh,Historical,8.645046759,Nov-Feb,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+942,Goa Beaches,Goa,Beach,8.702652456,Nov-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+943,Jaipur City,Rajasthan,City,9.106183997,Oct-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+944,Kerala Backwaters,Kerala,Nature,9.42965008,Sep-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+945,Leh Ladakh,Jammu and Kashmir,Adventure,7.537510611,Apr-Jun,A historical wonder,20-03-2024,1,"City, Historical"
+946,Taj Mahal,Uttar Pradesh,Historical,8.012249945,Nov-Feb,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+947,Goa Beaches,Goa,Beach,7.619280847,Nov-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+948,Jaipur City,Rajasthan,City,7.70877272,Oct-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+949,Kerala Backwaters,Kerala,Nature,9.087608839,Sep-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+950,Leh Ladakh,Jammu and Kashmir,Adventure,7.671909274,Apr-Jun,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+951,Taj Mahal,Uttar Pradesh,Historical,8.365692888,Nov-Feb,A historical wonder,20-03-2024,3,"City, Historical"
+952,Goa Beaches,Goa,Beach,8.123015873,Nov-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+953,Jaipur City,Rajasthan,City,8.321398767,Oct-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+954,Kerala Backwaters,Kerala,Nature,9.192148288,Sep-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+955,Leh Ladakh,Jammu and Kashmir,Adventure,8.106762585,Apr-Jun,Incredible monument!,01-01-2024,4,"Beaches, Historical"
+956,Taj Mahal,Uttar Pradesh,Historical,9.240773308,Nov-Feb,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+957,Goa Beaches,Goa,Beach,9.319617878,Nov-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+958,Jaipur City,Rajasthan,City,7.932950633,Oct-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+959,Kerala Backwaters,Kerala,Nature,9.052548436,Sep-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+960,Leh Ladakh,Jammu and Kashmir,Adventure,8.925500312,Apr-Jun,A historical wonder,20-03-2024,1,"City, Historical"
+961,Taj Mahal,Uttar Pradesh,Historical,8.385107105,Nov-Feb,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+962,Goa Beaches,Goa,Beach,9.210850999,Nov-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+963,Jaipur City,Rajasthan,City,8.814343714,Oct-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+964,Kerala Backwaters,Kerala,Nature,8.861841359,Sep-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+965,Leh Ladakh,Jammu and Kashmir,Adventure,8.636537892,Apr-Jun,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+966,Taj Mahal,Uttar Pradesh,Historical,9.140527124,Nov-Feb,A historical wonder,20-03-2024,1,"City, Historical"
+967,Goa Beaches,Goa,Beach,7.528727097,Nov-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+968,Jaipur City,Rajasthan,City,9.060978552,Oct-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+969,Kerala Backwaters,Kerala,Nature,9.409359527,Sep-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+970,Leh Ladakh,Jammu and Kashmir,Adventure,9.013101245,Apr-Jun,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+971,Taj Mahal,Uttar Pradesh,Historical,8.372423129,Nov-Feb,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+972,Goa Beaches,Goa,Beach,9.215187537,Nov-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+973,Jaipur City,Rajasthan,City,8.565934397,Oct-Mar,Incredible monument!,01-01-2024,5,"Beaches, Historical"
+974,Kerala Backwaters,Kerala,Nature,7.686987874,Sep-Mar,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+975,Leh Ladakh,Jammu and Kashmir,Adventure,8.780722104,Apr-Jun,A historical wonder,20-03-2024,3,"City, Historical"
+976,Taj Mahal,Uttar Pradesh,Historical,8.008536059,Nov-Feb,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+977,Goa Beaches,Goa,Beach,8.499576396,Nov-Mar,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+978,Jaipur City,Rajasthan,City,8.519173371,Oct-Mar,A historical wonder,20-03-2024,3,"City, Historical"
+979,Kerala Backwaters,Kerala,Nature,9.081745748,Sep-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+980,Leh Ladakh,Jammu and Kashmir,Adventure,9.347621265,Apr-Jun,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+981,Taj Mahal,Uttar Pradesh,Historical,8.732673715,Nov-Feb,A historical wonder,20-03-2024,4,"City, Historical"
+982,Goa Beaches,Goa,Beach,8.841048136,Nov-Mar,Incredible monument!,01-01-2024,3,"Beaches, Historical"
+983,Jaipur City,Rajasthan,City,9.08021632,Oct-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+984,Kerala Backwaters,Kerala,Nature,7.748098699,Sep-Mar,A historical wonder,20-03-2024,2,"City, Historical"
+985,Leh Ladakh,Jammu and Kashmir,Adventure,9.034655061,Apr-Jun,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+986,Taj Mahal,Uttar Pradesh,Historical,8.108715094,Nov-Feb,Loved the beaches!,15-02-2024,5,"Nature, Adventure"
+987,Goa Beaches,Goa,Beach,9.499811031,Nov-Mar,A historical wonder,20-03-2024,1,"City, Historical"
+988,Jaipur City,Rajasthan,City,7.962347871,Oct-Mar,Incredible monument!,01-01-2024,2,"Beaches, Historical"
+989,Kerala Backwaters,Kerala,Nature,8.208087955,Sep-Mar,Loved the beaches!,15-02-2024,2,"Nature, Adventure"
+990,Leh Ladakh,Jammu and Kashmir,Adventure,8.117425965,Apr-Jun,A historical wonder,20-03-2024,5,"City, Historical"
+991,Taj Mahal,Uttar Pradesh,Historical,8.207388381,Nov-Feb,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+992,Goa Beaches,Goa,Beach,8.114747173,Nov-Mar,Loved the beaches!,15-02-2024,1,"Nature, Adventure"
+993,Jaipur City,Rajasthan,City,8.195154681,Oct-Mar,A historical wonder,20-03-2024,4,"City, Historical"
+994,Kerala Backwaters,Kerala,Nature,8.165291117,Sep-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+995,Leh Ladakh,Jammu and Kashmir,Adventure,7.746367368,Apr-Jun,Loved the beaches!,15-02-2024,3,"Nature, Adventure"
+996,Taj Mahal,Uttar Pradesh,Historical,8.133818191,Nov-Feb,A historical wonder,20-03-2024,3,"City, Historical"
+997,Goa Beaches,Goa,Beach,8.203518829,Nov-Mar,Incredible monument!,01-01-2024,1,"Beaches, Historical"
+998,Jaipur City,Rajasthan,City,8.30843543,Oct-Mar,Loved the beaches!,15-02-2024,4,"Nature, Adventure"
+999,Kerala Backwaters,Kerala,Nature,8.961740524,Sep-Mar,A historical wonder,20-03-2024,5,"City, Historical"
+1000,Darjeeling,West Bengal,Mountain,8.2545,Mar-Jun,Roads are a bit curvy but worth the views,16-11-2023,4.6,toytrain tea gardens
+1001,Shimla,Himachal Pradesh,Mountain,8.2545,Sep-Nov,Great views with cool climate and greenery,09-01-2023,4.1,family hillstation mallroad
+1002,Alleppey,Kerala,Nature,7.8545,Nov-Feb,Nice greenery and calm environment,14-01-2023,4.8,backwater boatstay
+1003,Kaziranga,Assam,Nature,7.8545,Nov-Feb,Good for a relaxed family trip close to nature,13-02-2023,4.8,wildlife safari rhino
+1004,Kovalam,Kerala,Beach,8.2545,Nov-Feb,Can get crowded on weekends but overall enjoyable,20-04-2022,4.2,family beach calm
+1005,Darjeeling,West Bengal,Mountain,8.2545,Oct-Feb,Great views with cool climate and greenery,14-06-2022,4.3,toytrain tea gardens
+1006,Tirupati,Andhra Pradesh,Spiritual,8.2545,Sep-Nov,Place felt crowded but spiritually uplifting,22-12-2023,4.5,temple darshan queue
+1007,Nainital,Uttarakhand,Mountain,8.2545,Sep-Nov,Roads are a bit curvy but worth the views,27-05-2023,4.5,lake boating family
+1008,Nainital,Uttarakhand,Mountain,7.8545,Oct-Feb,Great views with cool climate and greenery,24-02-2023,4.1,lake boating family
+1009,Marina Beach,Tamil Nadu,Beach,8.2545,Nov-Feb,Can get crowded on weekends but overall enjoyable,01-06-2023,3.9,city beach crowded
+1010,Darjeeling,West Bengal,Mountain,7.8545,Mar-Jun,Good place for short treks and photography,22-06-2023,4.4,toytrain tea gardens
+1011,Kerala Backwaters,Kerala,Nature,8.2545,Jun-Sep,Wildlife sightings depend on season and luck,14-06-2023,4.6,houseboat backwater calm
+1012,Digha Beach,West Bengal,Beach,8.2545,Nov-Mar,Can get crowded on weekends but overall enjoyable,27-03-2022,4.4,budget beach weekend
+1013,Tirupati,Andhra Pradesh,Spiritual,8.2545,Sep-Nov,Place felt crowded but spiritually uplifting,19-12-2022,4,temple darshan queue
+1014,Digha Beach,West Bengal,Beach,7.8545,Nov-Feb,Can get crowded on weekends but overall enjoyable,14-05-2023,4,budget beach weekend
+1015,Puri Beach,Odisha,Beach,8.2545,Oct-Mar,Can get crowded on weekends but overall enjoyable,05-08-2022,4.8,temple beach sunrise
+1016,Shimla,Himachal Pradesh,Mountain,7.8545,Mar-Jun,Roads are a bit curvy but worth the views,06-11-2023,4.1,family hillstation mallroad
+1017,Kolkata,West Bengal,City,8.2545,Nov-Feb,Traffic is heavy but there is a lot to do,18-09-2023,4.8,culture food heritage
+1018,Puri Beach,Odisha,Beach,8.2545,Nov-Mar,Good vibe with cafes and seaside walks,07-02-2022,4.7,temple beach sunrise
+1019,Alleppey,Kerala,Nature,8.2545,Nov-Feb,Wildlife sightings depend on season and luck,24-08-2023,4.4,backwater boatstay
+1020,Udaipur,Rajasthan,City,8.2545,Aug-Dec,"Good mix of food, markets and sightseeing",03-08-2023,4.2,lakes palaces romantic
+1021,Varanasi,Uttar Pradesh,Spiritual,8.2545,Sep-Nov,Place felt crowded but spiritually uplifting,09-08-2022,4.3,ghat aarti temple
+1022,Jaipur City,Rajasthan,City,7.8545,Aug-Dec,"Good mix of food, markets and sightseeing",11-10-2022,4,forts palaces shopping
+1023,Rishikesh,Uttarakhand,Spiritual,7.8545,Feb-Jun,Place felt crowded but spiritually uplifting,16-05-2022,5,peaceful yoga river
+1024,Jaipur City,Rajasthan,City,8.2545,Nov-Feb,Traffic is heavy but there is a lot to do,15-08-2022,4.5,forts palaces shopping
+1025,Coorg,Karnataka,Nature,8.2545,Nov-Feb,Wildlife sightings depend on season and luck,12-07-2023,4,coffee rain nature
+1026,Marina Beach,Tamil Nadu,Beach,8.2545,Nov-Feb,Clean beach with nice sunset views,23-05-2022,4.1,city beach crowded
+1027,Manali,Himachal Pradesh,Mountain,7.8545,Sep-Nov,Great views with cool climate and greenery,06-12-2022,5,snow mountain adventure
+1028,Shimla,Himachal Pradesh,Mountain,7.8545,Sep-Nov,Good place for short treks and photography,14-04-2022,4.6,family hillstation mallroad
+1029,Alleppey,Kerala,Nature,7.8545,Oct-Mar,Wildlife sightings depend on season and luck,04-07-2023,4.6,backwater boatstay
+1030,Sundarbans,West Bengal,Nature,7.8545,Oct-Mar,Good for a relaxed family trip close to nature,17-12-2022,4.8,mangrove tiger safari
+1031,Munnar,Kerala,Mountain,7.8545,Sep-Nov,Roads are a bit curvy but worth the views,04-04-2023,4.5,mountain nature calm
+1032,Mysore,Karnataka,City,7.8545,Nov-Feb,"Good mix of food, markets and sightseeing",07-12-2023,4,palace zoo heritage
+1033,Nainital,Uttarakhand,Mountain,7.8545,Oct-Feb,Great views with cool climate and greenery,24-05-2023,4,lake boating family
+1034,Shirdi,Maharashtra,Spiritual,7.8545,Feb-Jun,Peaceful atmosphere with well managed temples,02-07-2023,4.6,sai baba temple
+1035,Marina Beach,Tamil Nadu,Beach,7.8545,Nov-Feb,Can get crowded on weekends but overall enjoyable,07-03-2022,4.3,city beach crowded
+1036,Kaziranga,Assam,Nature,8.2545,Oct-Mar,Good for a relaxed family trip close to nature,16-11-2023,3.8,wildlife safari rhino
+1037,Haridwar,Uttarakhand,Spiritual,7.8545,Sep-Nov,Evening aarti experience was memorable,09-06-2022,4.5,ganga aarti spiritual
+1038,Sundarbans,West Bengal,Nature,8.2545,Nov-Feb,Good for a relaxed family trip close to nature,20-01-2022,4.7,mangrove tiger safari
+1039,Sundarbans,West Bengal,Nature,8.2545,Oct-Mar,Good for a relaxed family trip close to nature,04-11-2022,3.8,mangrove tiger safari
+1040,Varkala Beach,Kerala,Beach,7.8545,Nov-Feb,Clean beach with nice sunset views,20-08-2022,5,chill beach sunset calm
+1041,Nainital,Uttarakhand,Mountain,8.2545,Oct-Feb,Roads are a bit curvy but worth the views,24-06-2022,4.4,lake boating family
+1042,Mysore,Karnataka,City,7.8545,Aug-Dec,Traffic is heavy but there is a lot to do,08-08-2022,4.2,palace zoo heritage
+1043,Munnar,Kerala,Mountain,7.8545,Sep-Nov,Good place for short treks and photography,15-11-2023,4.2,mountain nature calm
+1044,Coorg,Karnataka,Nature,8.2545,Nov-Feb,Nice greenery and calm environment,27-11-2023,4.7,coffee rain nature
+1045,Darjeeling,West Bengal,Mountain,8.2545,Oct-Feb,Roads are a bit curvy but worth the views,01-04-2022,4.9,toytrain tea gardens
+1046,Digha Beach,West Bengal,Beach,7.8545,Nov-Feb,Clean beach with nice sunset views,18-10-2023,4.7,budget beach weekend
+1047,Digha Beach,West Bengal,Beach,8.2545,Oct-Mar,Good vibe with cafes and seaside walks,23-11-2022,4.3,budget beach weekend
+1048,Shirdi,Maharashtra,Spiritual,7.8545,Feb-Jun,Peaceful atmosphere with well managed temples,14-08-2023,3.8,sai baba temple
+1049,Tirupati,Andhra Pradesh,Spiritual,7.8545,Feb-Jun,Peaceful atmosphere with well managed temples,20-02-2023,4.4,temple darshan queue
+1050,Varanasi,Uttar Pradesh,Spiritual,8.2545,Feb-Jun,Place felt crowded but spiritually uplifting,25-03-2022,4.1,ghat aarti temple
+1051,Haridwar,Uttarakhand,Spiritual,7.8545,Sep-Nov,Place felt crowded but spiritually uplifting,10-05-2022,4,ganga aarti spiritual
+1052,Rishikesh,Uttarakhand,Spiritual,8.2545,Sep-Nov,Peaceful atmosphere with well managed temples,27-07-2023,4.9,peaceful yoga river
+1053,Mumbai,Maharashtra,City,8.2545,Oct-Mar,"Good mix of food, markets and sightseeing",26-02-2022,4.1,nightlife seafood city
+1054,Sundarbans,West Bengal,Nature,7.8545,Oct-Mar,Nice greenery and calm environment,05-12-2022,4.3,mangrove tiger safari
+1055,Sundarbans,West Bengal,Nature,7.8545,Jun-Sep,Wildlife sightings depend on season and luck,25-11-2023,4.4,mangrove tiger safari
+1056,Kovalam,Kerala,Beach,7.8545,Nov-Mar,Can get crowded on weekends but overall enjoyable,23-07-2023,4.7,family beach calm
+1057,Nainital,Uttarakhand,Mountain,8.2545,Sep-Nov,Roads are a bit curvy but worth the views,12-05-2022,4.9,lake boating family
+1058,Kolkata,West Bengal,City,8.2545,Nov-Feb,"Good mix of food, markets and sightseeing",07-01-2022,4.9,culture food heritage
+1059,Varkala Beach,Kerala,Beach,8.2545,Nov-Feb,Good vibe with cafes and seaside walks,26-07-2022,4.4,chill beach sunset calm
+1060,Puri Beach,Odisha,Beach,8.2545,Nov-Mar,Can get crowded on weekends but overall enjoyable,19-10-2023,4.1,temple beach sunrise
+1061,Nainital,Uttarakhand,Mountain,7.8545,Oct-Feb,Great views with cool climate and greenery,17-02-2023,4.7,lake boating family
+1062,Alleppey,Kerala,Nature,7.8545,Oct-Mar,Wildlife sightings depend on season and luck,17-04-2022,5,backwater boatstay
+1063,Kovalam,Kerala,Beach,8.2545,Nov-Mar,Can get crowded on weekends but overall enjoyable,02-03-2022,4,family beach calm
+1064,Haridwar,Uttarakhand,Spiritual,7.8545,Sep-Nov,Peaceful atmosphere with well managed temples,22-11-2022,4.1,ganga aarti spiritual
+1065,Kolkata,West Bengal,City,8.2545,Aug-Dec,Nice for a weekend city break with friends,17-09-2023,3.9,culture food heritage
+1066,Udaipur,Rajasthan,City,7.8545,Aug-Dec,Nice for a weekend city break with friends,13-08-2022,4.4,lakes palaces romantic
+1067,Shimla,Himachal Pradesh,Mountain,8.2545,Oct-Feb,Great views with cool climate and greenery,26-02-2023,4.2,family hillstation mallroad
+1068,Shirdi,Maharashtra,Spiritual,8.2545,Feb-Jun,Peaceful atmosphere with well managed temples,12-08-2022,4.4,sai baba temple
+1069,Alleppey,Kerala,Nature,8.2545,Nov-Feb,Wildlife sightings depend on season and luck,02-09-2023,4,backwater boatstay
+1070,Sundarbans,West Bengal,Nature,7.8545,Nov-Feb,Good for a relaxed family trip close to nature,19-10-2022,4.3,mangrove tiger safari
+1071,Kolkata,West Bengal,City,8.2545,Nov-Feb,"Good mix of food, markets and sightseeing",04-11-2023,4.7,culture food heritage
+1072,Mumbai,Maharashtra,City,8.2545,Aug-Dec,Nice for a weekend city break with friends,21-10-2023,4.9,nightlife seafood city
+1073,Puri Beach,Odisha,Beach,8.2545,Oct-Mar,Good vibe with cafes and seaside walks,25-10-2023,4.4,temple beach sunrise
+1074,Udaipur,Rajasthan,City,8.2545,Nov-Feb,Nice for a weekend city break with friends,12-01-2022,3.9,lakes palaces romantic
+1075,Udaipur,Rajasthan,City,8.2545,Oct-Mar,Nice for a weekend city break with friends,07-09-2022,4.1,lakes palaces romantic
+1076,Marina Beach,Tamil Nadu,Beach,8.2545,Nov-Mar,Good vibe with cafes and seaside walks,07-07-2023,4,city beach crowded
+1077,Udaipur,Rajasthan,City,8.2545,Oct-Mar,Traffic is heavy but there is a lot to do,05-02-2022,4.5,lakes palaces romantic
+1078,Kaziranga,Assam,Nature,7.8545,Oct-Mar,Wildlife sightings depend on season and luck,13-01-2022,4.6,wildlife safari rhino
+1079,Kerala Backwaters,Kerala,Nature,7.8545,Oct-Mar,Nice greenery and calm environment,15-11-2022,4.9,houseboat backwater calm
+1080,Marina Beach,Tamil Nadu,Beach,8.2545,Nov-Mar,Can get crowded on weekends but overall enjoyable,06-08-2022,4.8,city beach crowded
+1081,Mumbai,Maharashtra,City,7.8545,Aug-Dec,Traffic is heavy but there is a lot to do,16-10-2023,4,nightlife seafood city
+1082,Darjeeling,West Bengal,Mountain,8.2545,Mar-Jun,Good place for short treks and photography,13-10-2022,3.8,toytrain tea gardens
+1083,Mumbai,Maharashtra,City,7.8545,Nov-Feb,Nice for a weekend city break with friends,02-01-2023,4.8,nightlife seafood city
+1084,Manali,Himachal Pradesh,Mountain,8.2545,Oct-Feb,Great views with cool climate and greenery,05-04-2023,4.2,snow mountain adventure
+1085,Jaipur City,Rajasthan,City,7.8545,Nov-Feb,"Good mix of food, markets and sightseeing",22-02-2022,4.6,forts palaces shopping
+1086,Shimla,Himachal Pradesh,Mountain,7.8545,Sep-Nov,Roads are a bit curvy but worth the views,12-11-2023,4.2,family hillstation mallroad
+1087,Haridwar,Uttarakhand,Spiritual,8.2545,Feb-Jun,Peaceful atmosphere with well managed temples,21-10-2023,4,ganga aarti spiritual
+1088,Varkala Beach,Kerala,Beach,7.8545,Oct-Mar,Clean beach with nice sunset views,16-03-2022,4.9,chill beach sunset calm
+1089,Varkala Beach,Kerala,Beach,8.2545,Oct-Mar,Good vibe with cafes and seaside walks,17-04-2023,4.6,chill beach sunset calm
+1090,Marina Beach,Tamil Nadu,Beach,8.2545,Nov-Feb,Good vibe with cafes and seaside walks,02-08-2022,3.9,city beach crowded
+1091,Coorg,Karnataka,Nature,7.8545,Jun-Sep,Nice greenery and calm environment,22-09-2023,4.8,coffee rain nature
+1092,Varkala Beach,Kerala,Beach,7.8545,Nov-Feb,Can get crowded on weekends but overall enjoyable,09-09-2022,4.2,chill beach sunset calm
+1093,Varanasi,Uttar Pradesh,Spiritual,7.8545,Sep-Nov,Peaceful atmosphere with well managed temples,05-02-2023,4.9,ghat aarti temple
+1094,Kolkata,West Bengal,City,8.2545,Aug-Dec,Traffic is heavy but there is a lot to do,18-08-2022,3.8,culture food heritage
+1095,Darjeeling,West Bengal,Mountain,8.2545,Sep-Nov,Good place for short treks and photography,26-08-2022,4.5,toytrain tea gardens
+1096,Darjeeling,West Bengal,Mountain,7.8545,Sep-Nov,Good place for short treks and photography,24-04-2022,4.3,toytrain tea gardens
+1097,Udaipur,Rajasthan,City,8.2545,Nov-Feb,Nice for a weekend city break with friends,03-08-2022,4.6,lakes palaces romantic
+1098,Kovalam,Kerala,Beach,7.8545,Nov-Mar,Good vibe with cafes and seaside walks,06-02-2023,4.3,family beach calm
+1099,Manali,Himachal Pradesh,Mountain,8.2545,Oct-Feb,Good place for short treks and photography,11-07-2023,4.8,snow mountain adventure
+1100,Munnar,Kerala,Mountain,8.2545,Sep-Nov,Good place for short treks and photography,08-07-2023,4.2,mountain nature calm
+1101,Varkala Beach,Kerala,Beach,7.8545,Nov-Feb,Clean beach with nice sunset views,09-03-2022,4.1,chill beach sunset calm
+1102,Kerala Backwaters,Kerala,Nature,7.8545,Jun-Sep,Nice greenery and calm environment,10-01-2023,4.3,houseboat backwater calm
+1103,Kerala Backwaters,Kerala,Nature,8.2545,Nov-Feb,Good for a relaxed family trip close to nature,09-11-2023,4.5,houseboat backwater calm
+1104,Varanasi,Uttar Pradesh,Spiritual,7.8545,Feb-Jun,Place felt crowded but spiritually uplifting,25-10-2022,3.9,ghat aarti temple
+1105,Jaipur City,Rajasthan,City,8.2545,Nov-Feb,Traffic is heavy but there is a lot to do,04-11-2022,4,forts palaces shopping
+1106,Jaipur City,Rajasthan,City,8.2545,Nov-Feb,Nice for a weekend city break with friends,20-11-2023,3.9,forts palaces shopping
+1107,Sundarbans,West Bengal,Nature,8.2545,Jun-Sep,Wildlife sightings depend on season and luck,23-10-2022,4.2,mangrove tiger safari
+1108,Shirdi,Maharashtra,Spiritual,8.2545,Sep-Nov,Place felt crowded but spiritually uplifting,01-03-2023,4.5,sai baba temple
+1109,Mysore,Karnataka,City,7.8545,Nov-Feb,"Good mix of food, markets and sightseeing",11-11-2022,4.9,palace zoo heritage
+1110,Rishikesh,Uttarakhand,Spiritual,8.2545,Feb-Jun,Peaceful atmosphere with well managed temples,18-02-2022,4.7,peaceful yoga river
+1111,Darjeeling,West Bengal,Mountain,8.2545,Mar-Jun,Good place for short treks and photography,23-07-2023,4.7,toytrain tea gardens
+1112,Rishikesh,Uttarakhand,Spiritual,8.2545,Feb-Jun,Evening aarti experience was memorable,20-05-2022,4.6,peaceful yoga river
+1113,Jaipur City,Rajasthan,City,7.8545,Nov-Feb,"Good mix of food, markets and sightseeing",21-12-2022,4.4,forts palaces shopping
+1114,Kolkata,West Bengal,City,7.8545,Aug-Dec,"Good mix of food, markets and sightseeing",21-04-2022,4,culture food heritage
+1115,Puri Beach,Odisha,Beach,7.8545,Oct-Mar,Good vibe with cafes and seaside walks,25-08-2023,4.7,temple beach sunrise
+1116,Tirupati,Andhra Pradesh,Spiritual,7.8545,Feb-Jun,Place felt crowded but spiritually uplifting,02-03-2023,4,temple darshan queue
+1117,Coorg,Karnataka,Nature,7.8545,Nov-Feb,Good for a relaxed family trip close to nature,20-02-2023,4.6,coffee rain nature
+1118,Haridwar,Uttarakhand,Spiritual,8.2545,Feb-Jun,Evening aarti experience was memorable,22-12-2023,5,ganga aarti spiritual
+1119,Darjeeling,West Bengal,Mountain,7.8545,Oct-Feb,Great views with cool climate and greenery,11-08-2023,4.7,toytrain tea gardens
+1120,Tirupati,Andhra Pradesh,Spiritual,8.2545,Sep-Nov,Place felt crowded but spiritually uplifting,24-03-2022,4.6,temple darshan queue
+1121,Sundarbans,West Bengal,Nature,8.2545,Oct-Mar,Good for a relaxed family trip close to nature,20-04-2023,4.7,mangrove tiger safari
+1122,Kaziranga,Assam,Nature,7.8545,Nov-Feb,Wildlife sightings depend on season and luck,10-05-2022,4.3,wildlife safari rhino
+1123,Tirupati,Andhra Pradesh,Spiritual,7.8545,Sep-Nov,Peaceful atmosphere with well managed temples,23-05-2022,3.8,temple darshan queue
+1124,Mysore,Karnataka,City,8.2545,Oct-Mar,Traffic is heavy but there is a lot to do,27-05-2022,4.5,palace zoo heritage
+1125,Mumbai,Maharashtra,City,7.8545,Oct-Mar,Nice for a weekend city break with friends,11-10-2023,4.7,nightlife seafood city
+1126,Kovalam,Kerala,Beach,8.2545,Nov-Mar,Clean beach with nice sunset views,10-12-2022,4.8,family beach calm
+1127,Alleppey,Kerala,Nature,8.2545,Jun-Sep,Wildlife sightings depend on season and luck,21-01-2022,4,backwater boatstay
+1128,Kerala Backwaters,Kerala,Nature,8.2545,Jun-Sep,Nice greenery and calm environment,10-02-2022,5,houseboat backwater calm
+1129,Darjeeling,West Bengal,Mountain,7.8545,Sep-Nov,Great views with cool climate and greenery,25-05-2023,4.8,toytrain tea gardens
+1130,Shimla,Himachal Pradesh,Mountain,7.8545,Sep-Nov,Good place for short treks and photography,19-02-2022,3.9,family hillstation mallroad
+1131,Munnar,Kerala,Mountain,8.2545,Mar-Jun,Great views with cool climate and greenery,05-03-2023,3.9,mountain nature calm
+1132,Rishikesh,Uttarakhand,Spiritual,8.2545,Sep-Nov,Evening aarti experience was memorable,26-06-2023,4.5,peaceful yoga river
+1133,Puri Beach,Odisha,Beach,8.2545,Nov-Feb,Clean beach with nice sunset views,25-06-2023,4,temple beach sunrise
+1134,Rishikesh,Uttarakhand,Spiritual,8.2545,Sep-Nov,Peaceful atmosphere with well managed temples,04-10-2023,4.1,peaceful yoga river
+1135,Darjeeling,West Bengal,Mountain,7.8545,Oct-Feb,Great views with cool climate and greenery,01-02-2022,4.4,toytrain tea gardens
+1136,Alleppey,Kerala,Nature,8.2545,Nov-Feb,Nice greenery and calm environment,13-04-2022,4.2,backwater boatstay
+1137,Darjeeling,West Bengal,Mountain,8.2545,Sep-Nov,Roads are a bit curvy but worth the views,02-09-2023,4.3,toytrain tea gardens
+1138,Digha Beach,West Bengal,Beach,7.8545,Oct-Mar,Good vibe with cafes and seaside walks,07-11-2022,5,budget beach weekend
+1139,Kovalam,Kerala,Beach,8.2545,Oct-Mar,Can get crowded on weekends but overall enjoyable,11-01-2023,4.1,family beach calm
+1140,Mysore,Karnataka,City,7.8545,Oct-Mar,Nice for a weekend city break with friends,12-02-2023,4.1,palace zoo heritage
+1141,Digha Beach,West Bengal,Beach,7.8545,Nov-Mar,Good vibe with cafes and seaside walks,04-11-2022,4.4,budget beach weekend
+1142,Marina Beach,Tamil Nadu,Beach,8.2545,Oct-Mar,Clean beach with nice sunset views,17-11-2023,4,city beach crowded
+1143,Kolkata,West Bengal,City,7.8545,Oct-Mar,Traffic is heavy but there is a lot to do,19-02-2022,4,culture food heritage
+1144,Kerala Backwaters,Kerala,Nature,7.8545,Jun-Sep,Wildlife sightings depend on season and luck,22-07-2022,4.1,houseboat backwater calm
+1145,Digha Beach,West Bengal,Beach,8.2545,Nov-Feb,Good vibe with cafes and seaside walks,17-09-2022,4.4,budget beach weekend
+1146,Kaziranga,Assam,Nature,8.2545,Oct-Mar,Nice greenery and calm environment,26-05-2023,4.4,wildlife safari rhino
+1147,Udaipur,Rajasthan,City,8.2545,Nov-Feb,Traffic is heavy but there is a lot to do,05-05-2023,4.8,lakes palaces romantic
+1148,Nainital,Uttarakhand,Mountain,8.2545,Oct-Feb,Roads are a bit curvy but worth the views,15-02-2022,4,lake boating family
+1149,Alleppey,Kerala,Nature,8.2545,Oct-Mar,Nice greenery and calm environment,07-03-2023,4.9,backwater boatstay
+1150,Alleppey,Kerala,Nature,8.2545,Oct-Mar,Wildlife sightings depend on season and luck,20-03-2023,5,backwater boatstay
+1151,Sundarbans,West Bengal,Nature,7.8545,Jun-Sep,Nice greenery and calm environment,25-07-2023,4.4,mangrove tiger safari
+1152,Varanasi,Uttar Pradesh,Spiritual,8.2545,Feb-Jun,Peaceful atmosphere with well managed temples,10-04-2023,3.8,ghat aarti temple
+1153,Varanasi,Uttar Pradesh,Spiritual,8.2545,Sep-Nov,Evening aarti experience was memorable,07-07-2023,3.9,ghat aarti temple
+1154,Darjeeling,West Bengal,Mountain,8.2545,Sep-Nov,Roads are a bit curvy but worth the views,03-11-2023,4.4,toytrain tea gardens
+1155,Nainital,Uttarakhand,Mountain,7.8545,Mar-Jun,Great views with cool climate and greenery,21-12-2023,4.8,lake boating family
+1156,Digha Beach,West Bengal,Beach,7.8545,Oct-Mar,Good vibe with cafes and seaside walks,19-11-2022,4.6,budget beach weekend
+1157,Nainital,Uttarakhand,Mountain,7.8545,Sep-Nov,Roads are a bit curvy but worth the views,09-05-2023,4.7,lake boating family
+1158,Mumbai,Maharashtra,City,7.8545,Aug-Dec,"Good mix of food, markets and sightseeing",22-10-2022,4,nightlife seafood city
+1159,Rishikesh,Uttarakhand,Spiritual,8.2545,Feb-Jun,Place felt crowded but spiritually uplifting,17-11-2022,4.9,peaceful yoga river
+1160,Sundarbans,West Bengal,Nature,7.8545,Oct-Mar,Wildlife sightings depend on season and luck,17-12-2023,4.2,mangrove tiger safari
+1161,Darjeeling,West Bengal,Mountain,8.2545,Oct-Feb,Good place for short treks and photography,03-04-2022,4.4,toytrain tea gardens
+1162,Shirdi,Maharashtra,Spiritual,8.2545,Feb-Jun,Peaceful atmosphere with well managed temples,12-07-2022,5,sai baba temple
+1163,Marina Beach,Tamil Nadu,Beach,7.8545,Nov-Feb,Clean beach with nice sunset views,22-08-2023,4.1,city beach crowded
+1164,Varkala Beach,Kerala,Beach,7.8545,Oct-Mar,Can get crowded on weekends but overall enjoyable,23-08-2023,4.6,chill beach sunset calm
+1165,Darjeeling,West Bengal,Mountain,7.8545,Mar-Jun,Roads are a bit curvy but worth the views,12-03-2023,4.3,toytrain tea gardens
+1166,Rishikesh,Uttarakhand,Spiritual,7.8545,Sep-Nov,Place felt crowded but spiritually uplifting,20-11-2022,4.6,peaceful yoga river
+1167,Digha Beach,West Bengal,Beach,7.8545,Oct-Mar,Good vibe with cafes and seaside walks,06-06-2022,4.6,budget beach weekend
+1168,Manali,Himachal Pradesh,Mountain,8.2545,Sep-Nov,Great views with cool climate and greenery,04-10-2023,4.5,snow mountain adventure
+1169,Darjeeling,West Bengal,Mountain,7.6464,Mar-Jun,Good place for short treks and photography,01-10-2022,4.7,toytrain tea gardens
+1170,Haridwar,Uttarakhand,Spiritual,8.2545,Sep-Nov,Place felt crowded but spiritually uplifting,13-06-2023,5,ganga aarti spiritual
+1171,Tirupati,Andhra Pradesh,Spiritual,7.25512,Sep-Nov,Peaceful atmosphere with well managed temples,15-07-2022,4.7,temple darshan queue
+1172,Mumbai,Maharashtra,City,8.2545,Aug-Dec,Traffic is heavy but there is a lot to do,26-02-2023,4.7,nightlife seafood city
+1173,Kaziranga,Assam,Nature,7.8545,Jun-Sep,Good for a relaxed family trip close to nature,26-01-2023,4.5,wildlife safari rhino
+1174,Udaipur,Rajasthan,City,7.8545,Oct-Mar,"Good mix of food, markets and sightseeing",04-06-2023,3.8,lakes palaces romantic
+1175,Varkala Beach,Kerala,Beach,8.2545,Oct-Mar,Clean beach with nice sunset views,03-10-2023,4.5,chill beach sunset calm
+1176,Kovalam,Kerala,Beach,8.2545,Oct-Mar,Good vibe with cafes and seaside walks,01-03-2022,4.5,family beach calm
+1177,Kerala Backwaters,Kerala,Nature,7.8545,Nov-Feb,Wildlife sightings depend on season and luck,06-07-2022,4.9,houseboat backwater calm
+1178,Udaipur,Rajasthan,City,8.2545,Oct-Mar,Traffic is heavy but there is a lot to do,26-10-2023,4.3,lakes palaces romantic
+1179,Marina Beach,Tamil Nadu,Beach,7.8545,Nov-Mar,Clean beach with nice sunset views,22-06-2023,4.5,city beach crowded
+1180,Manali,Himachal Pradesh,Mountain,8.2545,Sep-May,"Nice mix of cafes, mountains and snow fun",12-08-2023,4.7,snow mountain adventure
+1181,Munnar,Kerala,Mountain,7.10246,Oct-Feb,"Misty hills, tea plantations and cool weather",19-02-2023,4.8,mountain nature calm
+1182,Manali,Himachal Pradesh,Mountain,7.8545,Sep-May,"Nice mix of cafes, mountains and snow fun",27-07-2023,3.9,snow mountain adventure
+1183,Rishikesh,Uttarakhand,Spiritual,7.8545,Sep-Mar,"Calm ashrams and river views, good for meditation",22-09-2023,4.7,peaceful yoga river
+1184,Varkala Beach,Kerala,Beach,6.16468,Nov-Feb,Great place for relaxing by the sea and enjoying views,13-11-2023,4,chill beach sunset calm
+1049,Coonoor,Tamil Nadu,Mountain,7.213588,Mar-Jun,Traffic is heavy but there is a lot to do,17-05-2022,3.8,trek nilgiri
+1050,Banaras,Uttar Pradesh,Spiritual,7.213588,Oct-Feb,Evening aarti experience was memorable,07-03-2021,3.5,ghat cultural
+1051,Jodhpur,Rajasthan,City,7.213588,Sep-Nov,Good place for short treks and photography,10-05-2023,3.8,blue city fort
+1052,Puri Beach,Odisha,Beach,9,Nov-Mar,Traffic is heavy but there is a lot to do,15-11-2021,3.8,beach temple
+1053,Tirupati,Andhra Pradesh,Spiritual,9,Sep-Nov,Good vibe with cafes and seaside walks,06-12-2022,4.4,temple darshan
+1054,Banaras,Uttar Pradesh,Spiritual,7.213588,Feb-Jun,Nice greenery and calm environment,24-08-2022,4.7,cultural temple
+1055,Srinagar,Jammu & Kashmir,Mountain,7.8545,Mar-Jun,Great views with cool climate and greenery,12-04-2022,4.7,dal lake gardens
+1056,Nainital,Uttarakhand,Mountain,9,Oct-Feb,Excellent value for money and friendly locals,18-01-2023,3.7,boating lake
+1057,Chikmagalur,Karnataka,Nature,8.13465,Nov-Feb,Must visit at least once in lifetime,17-12-2021,4.3,coffee nature
+1058,Jaisalmer,Rajasthan,Desert,9,Dec-Feb,Stunning landscapes and photography opportunities,26-03-2022,4.5,fort desert
+1059,Alleppey,Kerala,Nature,8.2545,Oct-Feb,Traffic is heavy but there is a lot to do,16-05-2021,3.8,houseboat boatstay
+1060,Varanasi,Uttar Pradesh,Spiritual,9,Feb-Jun,Excellent value for money and friendly locals,20-10-2021,3.9,ghat aarti
+1061,Kochi,Kerala,City,9,Sep-Nov,Peaceful atmosphere with well managed temples,12-01-2023,3.8,backwater chinese nets
+1062,Tirupati,Andhra Pradesh,Spiritual,7.213588,Sep-Nov,Can get crowded on weekends but overall enjoyable,24-11-2021,4.7,darshan temple
+1063,Goa Beaches,Goa,Beach,9,Dec-Mar,Perfect for adventure seekers and nature lovers,30-05-2022,5,party sunset
+1064,Banaras,Uttar Pradesh,Spiritual,7.8546,Oct-Feb,Clean beach with nice sunset views,17-08-2021,3.9,ghat temple
+1065,Darjeeling,West Bengal,Mountain,8.2545,Sep-Nov,Perfect for adventure seekers and nature lovers,06-08-2021,4.8,tea gardens toytrain
+1066,Digha Beach,West Bengal,Beach,8.1685,Oct-Mar,Stunning landscapes and photography opportunities,23-12-2023,4.9,weekend beach
+1067,Agra,Uttar Pradesh,Heritage,7.213588,Nov-Feb,Good vibe with cafes and seaside walks,22-09-2022,3.9,taj mahal monument
+1068,Tirupati,Andhra Pradesh,Spiritual,9,Sep-Nov,Stunning landscapes and photography opportunities,15-09-2021,3.7,darshan temple
+1069,Coorg,Karnataka,Nature,9,Oct-Mar,Stunning landscapes and photography opportunities,16-02-2022,4.6,rain nature
+1070,Rann of Kutch,Gujarat,Nature,9,Nov-Feb,Wildlife sightings depend on season and luck,06-04-2022,3.6,desert culture
+1071,Kochi,Kerala,City,7.8545,Aug-Dec,Nice greenery and calm environment,01-05-2021,3.8,backwater chinese nets
+1072,Kovalam,Kerala,Beach,7.8545,Nov-Mar,Amazing food and cultural experiences,15-03-2022,4.3,calm beach
+1073,Rishikesh,Uttarakhand,Spiritual,9,Feb-Jun,Good place for short treks and photography,13-07-2021,3.6,yoga river
+1074,Andaman Islands,Andaman & Nicobar,Beach,9,Dec-Mar,Great views with cool climate and greenery,21-07-2021,3.6,beach scuba
+1075,Nainital,Uttarakhand,Mountain,7.8545,Sep-Nov,Good place for short treks and photography,08-07-2023,3.7,lake boating
+1076,Jaisalmer,Rajasthan,Desert,7.8545,Nov-Feb,Excellent value for money and friendly locals,20-07-2021,3.6,desert fort
+1077,Tirupati,Andhra Pradesh,Spiritual,7.8545,Sep-Nov,Evening aarti experience was memorable,22-09-2023,4.2,darshan temple
+1078,Puri Beach,Odisha,Beach,9,Nov-Feb,Peaceful atmosphere with well managed temples,28-06-2022,4.9,beach sunrise
+1079,Andaman Islands,Andaman & Nicobar,Beach,9,Oct-Mar,Good place for short treks and photography,31-08-2022,3.8,snorkeling beach
+1080,Mysore,Karnataka,City,7.213588,Aug-Dec,Best experienced during off-season,04-09-2023,4.3,heritage palace
+1081,Kaziranga,Assam,Nature,7.213588,Oct-Mar,Nice greenery and calm environment,20-05-2021,4.5,wildlife safari
+1082,Marina Beach,Tamil Nadu,Beach,7.8545,Nov-Feb,Must visit at least once in lifetime,17-06-2021,4.1,crowded city beach
+1083,Varanasi,Uttar Pradesh,Spiritual,8.2545,Sep-Nov,Traffic is heavy but there is a lot to do,22-03-2023,3.7,temple aarti
+1084,Jaisalmer,Rajasthan,Desert,8.2545,Nov-Feb,Roads are a bit curvy but worth the views,28-07-2023,4.4,desert fort
+1085,Kovalam,Kerala,Beach,7.8545,Nov-Mar,Can get crowded on weekends but overall enjoyable,16-12-2022,4.8,family beach
+1086,Sundarbans,West Bengal,Nature,7.8545,Oct-Feb,Stunning landscapes and photography opportunities,12-09-2022,4.4,safari mangrove
+1087,Chikmagalur,Karnataka,Nature,8.1548,Nov-Feb,Can get crowded on weekends but overall enjoyable,26-06-2022,3.7,coffee nature
+1088,Manali,Himachal Pradesh,Mountain,8.2545,Sep-Nov,Clean beach with nice sunset views,21-02-2022,4.5,mountain adventure
+1089,Coorg,Karnataka,Nature,7.213588,Nov-Feb,Evening aarti experience was memorable,21-07-2022,3.6,rain coffee
+1090,Coonoor,Tamil Nadu,Mountain,8.13548,Sep-Nov,Excellent value for money and friendly locals,26-05-2023,4.3,nilgiri trek
+1091,Digha Beach,West Bengal,Beach,7.213588,Nov-Mar,Best experienced during off-season,31-10-2021,4.1,budget beach
+1092,Varkala Beach,Kerala,Beach,7.213588,Nov-Mar,Good place for short treks and photography,27-05-2022,4.5,sunset calm
+1093,Hampi,Karnataka,Heritage,7.3651,Nov-Feb,Place felt crowded but spiritually uplifting,29-12-2021,4.8,temples history
+1094,Shirdi,Maharashtra,Spiritual,9,Oct-Feb,Wildlife sightings depend on season and luck,01-07-2022,3.7,sai baba temple
+1095,Alleppey,Kerala,Nature,9,Oct-Mar,Good place for short treks and photography,01-08-2023,4,backwater houseboat
+1096,Shimla,Himachal Pradesh,Mountain,7.8545,Apr-Jun,Clean beach with nice sunset views,25-07-2022,4.8,hillstation mallroad
+1097,Araku Valley,Andhra Pradesh,Nature,9,Jun-Sep,Roads are a bit curvy but worth the views,25-08-2021,4.8,tribal coffee
+1098,Kochi,Kerala,City,8.1345,Aug-Dec,Good for a relaxed family trip close to nature,09-06-2023,4,chinese nets spice
+1099,Wayanad,Kerala,Nature,7.213588,Oct-Feb,Best experienced during off-season,25-01-2022,3.9,coffee treks
+1100,Darjeeling,West Bengal,Mountain,7.8545,Oct-Feb,Evening aarti experience was memorable,24-05-2021,4.9,tea gardens trek
+1101,Chikmagalur,Karnataka,Nature,7.213588,Jun-Sep,Perfect for adventure seekers and nature lovers,26-09-2022,4.5,trek nature
+1102,Sundarbans,West Bengal,Nature,7.8545,Oct-Mar,Evening aarti experience was memorable,16-02-2023,4.5,mangrove tiger
+1103,Ooty,Tamil Nadu,Mountain,7.213588,Oct-Feb,"Good mix of food, markets and sightseeing",07-03-2022,4.1,toytrain tea gardens
+1104,Rann of Kutch,Gujarat,Nature,9,Oct-Mar,Perfect for adventure seekers and nature lovers,28-08-2023,4.7,culture desert
+1105,Chikmagalur,Karnataka,Nature,6.4645,Jun-Sep,Perfect for adventure seekers and nature lovers,18-11-2022,3.6,coffee trek
+1106,Jaipur City,Rajasthan,City,7.8545,Aug-Dec,Roads are a bit curvy but worth the views,05-04-2021,3.9,palaces forts
+1107,Jaisalmer,Rajasthan,Desert,9,Nov-Feb,Peaceful atmosphere with well managed temples,10-10-2023,4.1,fort desert
+1108,Nainital,Uttarakhand,Mountain,9,Sep-Nov,Place felt crowded but spiritually uplifting,27-11-2023,4.2,family lake
+1109,Marina Beach,Tamil Nadu,Beach,9,Oct-Mar,Excellent value for money and friendly locals,24-12-2023,5,crowded city beach
+1110,Kodaikanal,Tamil Nadu,Mountain,9,Apr-Jun,Place felt crowded but spiritually uplifting,31-08-2023,4.2,lake cool
+1111,Khajuraho,Madhya Pradesh,Heritage,9,Sep-Nov,Wildlife sightings depend on season and luck,17-07-2022,4.2,history temples
+1112,Manali,Himachal Pradesh,Mountain,5.1388,Oct-Feb,Stunning landscapes and photography opportunities,15-06-2021,3.7,snow mountain
+1113,Digha Beach,West Bengal,Beach,7.8545,Nov-Feb,Evening aarti experience was memorable,15-04-2023,4,beach weekend
+1114,Kaziranga,Assam,Nature,7.8545,Oct-Feb,Peaceful atmosphere with well managed temples,10-02-2021,4.8,rhino safari
+1115,Pushkar,Rajasthan,Spiritual,7.213588,Feb-Jun,"Good mix of food, markets and sightseeing",10-03-2023,4.8,temple fair
+1116,Agra,Uttar Pradesh,Heritage,7.8545,Oct-Mar,Evening aarti experience was memorable,22-09-2023,3.5,monument taj mahal
+1117,Puri Beach,Odisha,Beach,9,Oct-Mar,Must visit at least once in lifetime,30-12-2023,3.5,beach temple
+1118,Tirupati,Andhra Pradesh,Spiritual,9,Sep-Nov,Excellent value for money and friendly locals,08-01-2022,3.6,darshan queue
+1119,Varanasi,Uttar Pradesh,Spiritual,9,Feb-Jun,Clean beach with nice sunset views,16-02-2023,3.9,aarti temple
+1120,Tirupati,Andhra Pradesh,Spiritual,9,Sep-Nov,Stunning landscapes and photography opportunities,17-04-2021,5,darshan temple
+1121,Araku Valley,Andhra Pradesh,Nature,7.213588,Nov-Feb,Roads are a bit curvy but worth the views,22-05-2022,3.8,coffee valley
+1122,Rishikesh,Uttarakhand,Spiritual,7.8545,Feb-Jun,Good for a relaxed family trip close to nature,23-03-2022,4.2,yoga river
+1123,Puri Beach,Odisha,Beach,7.213588,Oct-Mar,"Good mix of food, markets and sightseeing",10-08-2021,4.4,beach sunrise
+1124,Ooty,Tamil Nadu,Mountain,7.8545,Mar-Jun,Best experienced during off-season,13-05-2022,3.7,toytrain tea gardens
+1125,Srinagar,Jammu & Kashmir,Mountain,7.213588,Oct-Feb,Stunning landscapes and photography opportunities,28-05-2023,4.5,dal lake houseboat
+1126,Darjeeling,West Bengal,Mountain,9,Apr-Jun,Good for a relaxed family trip close to nature,07-06-2023,4.9,trek tea gardens
+1127,Digha Beach,West Bengal,Beach,9,Oct-Mar,Perfect for adventure seekers and nature lovers,08-07-2022,4.4,weekend beach
+1128,Jaisalmer,Rajasthan,Desert,9,Dec-Feb,Clean beach with nice sunset views,18-05-2022,4.7,fort camel
+1129,Rann of Kutch,Gujarat,Nature,7.8545,Oct-Feb,Best experienced during off-season,16-02-2023,4,festival culture
+1130,Kolkata,West Bengal,City,9,Aug-Dec,Good vibe with cafes and seaside walks,14-06-2022,4,heritage food
+1131,Gulmarg,Jammu & Kashmir,Mountain,7.213588,Sep-Nov,Nice greenery and calm environment,10-05-2022,4.6,snow skiing
+1132,Pushkar,Rajasthan,Spiritual,9,Feb-Jun,Roads are a bit curvy but worth the views,10-07-2021,3.9,temple fair
+1133,Munnar,Kerala,Mountain,8.2545,Apr-Jun,Stunning landscapes and photography opportunities,24-12-2023,4,calm nature
+1134,Haridwar,Uttarakhand,Spiritual,9,Feb-Jun,"Good mix of food, markets and sightseeing",30-05-2022,3.8,spiritual ganga
+1135,Mysore,Karnataka,City,7.213588,Sep-Nov,Stunning landscapes and photography opportunities,15-01-2022,3.8,heritage zoo
+1136,Manali,Himachal Pradesh,Mountain,8.2545,Mar-Jun,Good place for short treks and photography,30-08-2022,3.8,snow mountain
+1137,Darjeeling,West Bengal,Mountain,7.8545,Oct-Feb,Great views with cool climate and greenery,22-04-2021,4.3,trek toytrain
+1138,Coonoor,Tamil Nadu,Mountain,9,Mar-Jun,Roads are a bit curvy but worth the views,06-08-2022,4.2,tea trek
+1139,Kolkata,West Bengal,City,7.213588,Nov-Feb,Amazing food and cultural experiences,22-08-2021,4.7,food heritage
+1140,Kovalam,Kerala,Beach,7.213588,Oct-Mar,Can get crowded on weekends but overall enjoyable,15-09-2022,3.6,family calm
+1141,Gulmarg,Jammu & Kashmir,Mountain,9,Sep-Nov,Perfect for adventure seekers and nature lovers,19-02-2023,4.2,snow gondola
+1142,Kochi,Kerala,City,9,Nov-Feb,Best experienced during off-season,04-05-2021,4.4,spice backwater
+1143,Varanasi,Uttar Pradesh,Spiritual,7.8545,Feb-Jun,Nice greenery and calm environment,18-11-2021,3.9,temple ghat
+1144,Puri Beach,Odisha,Beach,7.213588,Dec-Mar,Excellent value for money and friendly locals,21-08-2023,3.9,temple beach
+1145,Sundarbans,West Bengal,Nature,9,Nov-Feb,Wildlife sightings depend on season and luck,26-06-2022,4.7,safari mangrove
+1146,Andaman Islands,Andaman & Nicobar,Beach,7.213588,Oct-Mar,Can get crowded on weekends but overall enjoyable,29-06-2022,4.7,snorkeling beach
+1147,Puri Beach,Odisha,Beach,8.2545,Nov-Mar,Excellent value for money and friendly locals,12-09-2021,4.2,beach sunrise
+1148,Manali,Himachal Pradesh,Mountain,9.1358,Apr-Jun,Nice greenery and calm environment,23-03-2021,4.8,adventure mountain
+1149,Wayanad,Kerala,Nature,8.2545,Nov-Feb,Nice greenery and calm environment,14-04-2022,4.9,coffee green
+1150,Manali,Himachal Pradesh,Mountain,7.213588,Sep-Nov,Amazing food and cultural experiences,29-11-2023,4.5,mountain snow
+1151,Kochi,Kerala,City,9.1567,Sep-Nov,Amazing food and cultural experiences,06-07-2021,4.2,chinese nets spice
+1152,Mysore,Karnataka,City,7.213588,Aug-Dec,Clean beach with nice sunset views,24-04-2023,4.5,zoo heritage
+1153,Gulmarg,Jammu & Kashmir,Mountain,7.213588,Apr-Jun,Nice greenery and calm environment,07-10-2022,3.9,skiing snow
+1154,Jodhpur,Rajasthan,City,7.213588,Sep-Nov,Stunning landscapes and photography opportunities,05-08-2023,4.1,fort blue city
+1155,Kodaikanal,Tamil Nadu,Mountain,9,Apr-Jun,Great views with cool climate and greenery,21-02-2022,3.9,lake cool
+1156,Rann of Kutch,Gujarat,Nature,7.05646,Nov-Feb,Roads are a bit curvy but worth the views,06-05-2022,4.6,festival desert
+1157,Gulmarg,Jammu & Kashmir,Mountain,9,Mar-Jun,Wildlife sightings depend on season and luck,21-08-2021,4.2,skiing gondola
+1158,Agra,Uttar Pradesh,Heritage,8.2545,Sep-Nov,Traffic is heavy but there is a lot to do,01-05-2023,4.8,monument taj mahal
+1159,Jaisalmer,Rajasthan,Desert,7.8545,Dec-Feb,Good place for short treks and photography,07-11-2023,4.6,fort desert
+1160,Manali,Himachal Pradesh,Mountain,9.1256,Oct-Feb,Perfect for adventure seekers and nature lovers,02-07-2022,4.7,mountain adventure
+1161,Kochi,Kerala,City,8.15664,Aug-Dec,Excellent value for money and friendly locals,19-09-2023,4,spice chinese nets
+1162,Jaisalmer,Rajasthan,Desert,8.2545,Nov-Feb,Wildlife sightings depend on season and luck,24-02-2023,3.9,camel fort
+1163,Mysore,Karnataka,City,8.2315,Sep-Nov,Peaceful atmosphere with well managed temples,02-03-2023,5,heritage palace
+1164,Agra,Uttar Pradesh,Heritage,7.213588,Nov-Feb,Perfect for adventure seekers and nature lovers,11-11-2022,4.8,monument taj mahal
+1165,Khajuraho,Madhya Pradesh,Heritage,9,Nov-Feb,Can get crowded on weekends but overall enjoyable,20-04-2023,4.8,temples history
+1166,Pushkar,Rajasthan,Spiritual,8.2545,Feb-Jun,Must visit at least once in lifetime,26-03-2023,4.5,temple lake
+1167,Mysore,Karnataka,City,9,Sep-Nov,Great views with cool climate and greenery,21-05-2021,3.9,heritage zoo
+1168,Jaipur City,Rajasthan,City,7.213588,Nov-Feb,Good for a relaxed family trip close to nature,25-07-2021,4.2,shopping palaces
+1169,Shimla,Himachal Pradesh,Mountain,7.213588,Oct-Feb,Great views with cool climate and greenery,24-08-2022,4,hillstation family
+1170,Rishikesh,Uttarakhand,Spiritual,9,Oct-Feb,Place felt crowded but spiritually uplifting,15-12-2021,3.8,river yoga
+1171,Kodaikanal,Tamil Nadu,Mountain,7.8545,Apr-Jun,Best experienced during off-season,21-10-2021,3.8,nature cool
+1172,Jaisalmer,Rajasthan,Desert,8.2545,Nov-Feb,Excellent value for money and friendly locals,13-08-2022,4.5,fort desert
+1173,Rann of Kutch,Gujarat,Nature,8.2545,Jun-Sep,Evening aarti experience was memorable,28-05-2022,4.2,festival desert
+1174,Goa Beaches,Goa,Beach,9,Nov-Feb,Wildlife sightings depend on season and luck,21-02-2023,4.4,sunset beach
+1175,Sundarbans,West Bengal,Nature,7.213588,Oct-Feb,Traffic is heavy but there is a lot to do,17-01-2021,4.3,safari mangrove
+1176,Wayanad,Kerala,Nature,9,Jun-Sep,Wildlife sightings depend on season and luck,23-12-2022,3.8,green treks
+1177,Chikmagalur,Karnataka,Nature,7.8545,Nov-Feb,Great views with cool climate and greenery,25-09-2022,4.7,coffee trek
+1178,Kerala Backwaters,Kerala,Nature,7.213588,Jun-Sep,Clean beach with nice sunset views,01-05-2023,3.8,houseboat backwater
+1179,Khajuraho,Madhya Pradesh,Heritage,8.2545,Nov-Feb,Traffic is heavy but there is a lot to do,14-09-2023,5,history temples
+1180,Marina Beach,Tamil Nadu,Beach,9,Nov-Feb,Can get crowded on weekends but overall enjoyable,08-04-2022,4.8,crowded city beach
+1181,Tirupati,Andhra Pradesh,Spiritual,9,Sep-Nov,Traffic is heavy but there is a lot to do,11-09-2021,4.2,queue darshan
+1182,Kochi,Kerala,City,8.1545,Sep-Nov,Good vibe with cafes and seaside walks,10-08-2021,4.5,chinese nets backwater
+1183,Kodaikanal,Tamil Nadu,Mountain,8.2545,Sep-Nov,Nice greenery and calm environment,09-08-2023,4.9,cool nature
+1184,Marina Beach,Tamil Nadu,Beach,7.8545,Nov-Feb,Great views with cool climate and greenery,16-09-2022,5,city beach crowded
+1185,Rishikesh,Uttarakhand,Spiritual,7.8545,Feb-Jun,Excellent value for money and friendly locals,30-01-2023,4.5,river yoga
+1186,Kochi,Kerala,City,6.1645,Nov-Feb,Good for a relaxed family trip close to nature,30-09-2023,4.4,chinese nets backwater
+1187,Varkala Beach,Kerala,Beach,7.8545,Dec-Mar,Excellent value for money and friendly locals,29-04-2022,4.8,chill sunset
+1188,Varkala Beach,Kerala,Beach,8.2545,Nov-Feb,Peaceful atmosphere with well managed temples,20-07-2022,3.8,chill beach
+1189,Tirupati,Andhra Pradesh,Spiritual,7.8545,Oct-Feb,Must visit at least once in lifetime,13-02-2021,3.6,darshan temple
+1190,Kerala Backwaters,Kerala,Nature,7.8545,Nov-Feb,Stunning landscapes and photography opportunities,01-03-2022,4.4,houseboat backwater
+1191,Digha Beach,West Bengal,Beach,7.1565,Nov-Mar,Can get crowded on weekends but overall enjoyable,24-09-2021,4.3,budget weekend
+1192,Chikmagalur,Karnataka,Nature,9.36564,Oct-Mar,Roads are a bit curvy but worth the views,04-01-2023,4.7,coffee trek
+1193,Shimla,Himachal Pradesh,Mountain,7.8545,Oct-Feb,Great views with cool climate and greenery,17-09-2021,4.6,mallroad family
+1194,Kovalam,Kerala,Beach,9,Dec-Mar,Good vibe with cafes and seaside walks,18-11-2023,4.4,beach family
+1195,Kodaikanal,Tamil Nadu,Mountain,7.213588,Oct-Feb,Excellent value for money and friendly locals,05-03-2021,3.6,cool nature
+1196,Andaman Islands,Andaman & Nicobar,Beach,7.213588,Dec-Mar,Excellent value for money and friendly locals,31-05-2021,4.8,scuba snorkeling
+1197,Kovalam,Kerala,Beach,7.8545,Nov-Mar,Must visit at least once in lifetime,28-10-2022,4.1,calm beach
+1198,Jaisalmer,Rajasthan,Desert,9,Nov-Feb,Good for a relaxed family trip close to nature,17-03-2022,4.1,fort camel
+1199,Shirdi,Maharashtra,Spiritual,9,Feb-Jun,Evening aarti experience was memorable,14-07-2021,4,temple sai baba
+1200,Varkala Beach,Kerala,Beach,7.8545,Dec-Mar,Nice greenery and calm environment,06-07-2021,4.7,chill beach
+1201,Nainital,Uttarakhand,Mountain,8.2545,Sep-Nov,Stunning landscapes and photography opportunities,03-05-2021,4.4,family boating
+1202,Chikmagalur,Karnataka,Nature,7.213588,Oct-Feb,Good vibe with cafes and seaside walks,17-05-2023,4.8,nature coffee
+1203,Sundarbans,West Bengal,Nature,8.2545,Jun-Sep,Good for a relaxed family trip close to nature,06-11-2023,3.8,safari tiger
+1204,Jaipur City,Rajasthan,City,7.213588,Nov-Feb,Stunning landscapes and photography opportunities,23-01-2023,3.7,palaces forts
+1205,Andaman Islands,Andaman & Nicobar,Beach,7.213588,Nov-Mar,Roads are a bit curvy but worth the views,05-01-2022,3.9,scuba beach
+1206,Haridwar,Uttarakhand,Spiritual,7.213588,Sep-Nov,Can get crowded on weekends but overall enjoyable,01-04-2023,3.6,spiritual ganga
+1207,Tirupati,Andhra Pradesh,Spiritual,7.8545,Feb-Jun,Evening aarti experience was memorable,19-07-2023,4,darshan queue
+1208,Mysore,Karnataka,City,7.213588,Aug-Dec,Can get crowded on weekends but overall enjoyable,19-11-2021,4.6,palace heritage
+1209,Manali,Himachal Pradesh,Mountain,9,Apr-Jun,Amazing food and cultural experiences,25-06-2023,4.1,snow adventure
+1210,Haridwar,Uttarakhand,Spiritual,9,Sep-Nov,"Good mix of food, markets and sightseeing",24-09-2023,4.3,aarti ganga
+1211,Jaipur City,Rajasthan,City,9,Sep-Nov,Great views with cool climate and greenery,16-01-2021,3.8,forts shopping
+1212,Coorg,Karnataka,Nature,8.2545,Jun-Sep,Good for a relaxed family trip close to nature,16-01-2021,4.2,rain coffee
+1213,Kerala Backwaters,Kerala,Nature,9,Oct-Mar,Perfect for adventure seekers and nature lovers,27-12-2022,3.6,calm houseboat
+1214,Andaman Islands,Andaman & Nicobar,Beach,7.213588,Dec-Mar,Nice greenery and calm environment,04-10-2022,4.4,beach scuba
+1215,Coonoor,Tamil Nadu,Mountain,9,Oct-Feb,Good for a relaxed family trip close to nature,10-04-2023,3.5,tea nilgiri
+1216,Kodaikanal,Tamil Nadu,Mountain,9,Oct-Feb,Nice greenery and calm environment,14-06-2023,4.8,lake cool
+1217,Kochi,Kerala,City,9,Sep-Nov,Nice greenery and calm environment,22-03-2023,4.8,spice chinese nets
+1218,Jaipur City,Rajasthan,City,8.2545,Aug-Dec,Nice greenery and calm environment,12-11-2023,4.4,shopping forts
+1219,Haridwar,Uttarakhand,Spiritual,8.2545,Oct-Feb,Can get crowded on weekends but overall enjoyable,29-04-2022,3.7,aarti ganga
+1220,Kolkata,West Bengal,City,7.8545,Sep-Nov,Nice greenery and calm environment,29-12-2021,4.9,heritage food
+1221,Jaisalmer,Rajasthan,Desert,9,Dec-Feb,Clean beach with nice sunset views,06-11-2021,4.2,camel desert
+1222,Coonoor,Tamil Nadu,Mountain,8.2545,Oct-Feb,Best experienced during off-season,26-04-2021,4,nilgiri tea
+1223,Jaisalmer,Rajasthan,Desert,9,Nov-Feb,Great views with cool climate and greenery,26-01-2023,4.7,fort desert
+1224,Kodaikanal,Tamil Nadu,Mountain,9,Apr-Jun,Best experienced during off-season,26-03-2021,4.2,nature lake
+1225,Mysore,Karnataka,City,9,Sep-Nov,Can get crowded on weekends but overall enjoyable,07-05-2021,4.2,zoo palace
+1226,Jodhpur,Rajasthan,City,7.8545,Aug-Dec,Wildlife sightings depend on season and luck,16-06-2023,5,fort blue city
+1227,Varkala Beach,Kerala,Beach,8.2545,Dec-Mar,Evening aarti experience was memorable,24-11-2022,4.5,chill sunset
+1228,Araku Valley,Andhra Pradesh,Nature,8.2545,Nov-Feb,Clean beach with nice sunset views,13-07-2021,4.3,tribal valley
+1229,Coorg,Karnataka,Nature,7.8545,Jun-Sep,Nice greenery and calm environment,17-10-2021,4.9,rain nature
+1230,Kerala Backwaters,Kerala,Nature,7.213588,Jun-Sep,Stunning landscapes and photography opportunities,11-02-2023,4.5,backwater houseboat
+1231,Chikmagalur,Karnataka,Nature,7.213588,Oct-Feb,Perfect for adventure seekers and nature lovers,12-01-2023,3.5,trek coffee
+1232,Varanasi,Uttar Pradesh,Spiritual,8.2545,Feb-Jun,Good place for short treks and photography,09-04-2022,5,ghat temple
+1233,Sundarbans,West Bengal,Nature,7.213588,Nov-Feb,Clean beach with nice sunset views,26-09-2021,4.4,mangrove safari
+1234,Kolkata,West Bengal,City,7.8545,Sep-Nov,Excellent value for money and friendly locals,31-03-2021,4.1,heritage culture
+1235,Rann of Kutch,Gujarat,Nature,8.2545,Oct-Feb,Wildlife sightings depend on season and luck,30-12-2023,3.9,festival desert
+1236,Varkala Beach,Kerala,Beach,9,Dec-Mar,"Good mix of food, markets and sightseeing",22-02-2023,4.3,calm chill
+1237,Udaipur,Rajasthan,City,7.8545,Nov-Feb,Great views with cool climate and greenery,12-09-2023,4.8,romantic lakes
+1238,Khajuraho,Madhya Pradesh,Heritage,7.213588,Oct-Mar,Nice greenery and calm environment,25-11-2021,3.9,temples history
+1239,Tirupati,Andhra Pradesh,Spiritual,7.8545,Feb-Jun,Good vibe with cafes and seaside walks,24-02-2021,4.1,darshan queue
+1240,Rishikesh,Uttarakhand,Spiritual,9,Sep-Nov,Good vibe with cafes and seaside walks,05-04-2022,3.5,peaceful yoga
+1241,Digha Beach,West Bengal,Beach,7.8545,Nov-Feb,"Good mix of food, markets and sightseeing",26-08-2023,4.5,budget beach
+1242,Rann of Kutch,Gujarat,Nature,7.213588,Nov-Feb,Roads are a bit curvy but worth the views,09-06-2022,3.8,desert festival
+1243,Marina Beach,Tamil Nadu,Beach,8.2545,Oct-Mar,"Good mix of food, markets and sightseeing",07-09-2021,3.6,crowded city beach
+1244,Kovalam,Kerala,Beach,7.213588,Dec-Mar,Must visit at least once in lifetime,03-02-2021,4.4,calm family
+1245,Digha Beach,West Bengal,Beach,8.2545,Dec-Mar,Roads are a bit curvy but worth the views,24-12-2022,3.9,beach budget
+1246,Chikmagalur,Karnataka,Nature,7.213588,Jun-Sep,Nice greenery and calm environment,14-12-2023,4.3,nature coffee
+1247,Goa Beaches,Goa,Beach,9,Nov-Feb,Peaceful atmosphere with well managed temples,04-02-2023,3.9,party beach
+1248,Kovalam,Kerala,Beach,8.2545,Oct-Mar,Good for a relaxed family trip close to nature,12-11-2022,3.7,beach calm
+1249,Araku Valley,Andhra Pradesh,Nature,7.8545,Oct-Feb,Amazing food and cultural experiences,09-01-2022,4.7,coffee tribal
+1250,Alleppey,Kerala,Nature,8.2545,Oct-Mar,Great views with cool climate and greenery,13-02-2022,4.8,boatstay houseboat
+1251,Jodhpur,Rajasthan,City,9,Sep-Nov,Amazing food and cultural experiences,03-06-2022,3.6,fort blue city
+1252,Haridwar,Uttarakhand,Spiritual,7.213588,Oct-Feb,Clean beach with nice sunset views,14-07-2022,3.7,aarti spiritual
+1253,Ooty,Tamil Nadu,Mountain,9,Apr-Jun,Clean beach with nice sunset views,18-01-2022,4.2,toytrain tea gardens
+1254,Khajuraho,Madhya Pradesh,Heritage,8.2545,Nov-Feb,Evening aarti experience was memorable,11-06-2021,4.1,temples history
+1255,Mysore,Karnataka,City,7.213588,Aug-Dec,Clean beach with nice sunset views,29-08-2022,4,heritage zoo
+1256,Puri Beach,Odisha,Beach,9,Nov-Mar,Excellent value for money and friendly locals,28-03-2021,4.6,beach sunrise
+1257,Manali,Himachal Pradesh,Mountain,7.213588,Mar-Jun,Peaceful atmosphere with well managed temples,15-01-2023,4.3,adventure snow
+1258,Shimla,Himachal Pradesh,Mountain,7.8545,Apr-Jun,Great views with cool climate and greenery,16-09-2021,3.6,mallroad hillstation
+1259,Varkala Beach,Kerala,Beach,9,Nov-Feb,Must visit at least once in lifetime,11-11-2021,4.5,sunset beach
+1260,Rann of Kutch,Gujarat,Nature,7.213588,Oct-Mar,Perfect for adventure seekers and nature lovers,22-01-2023,4.1,culture festival
+1261,Rishikesh,Uttarakhand,Spiritual,7.213588,Sep-Nov,Place felt crowded but spiritually uplifting,20-10-2023,4.3,river peaceful
+1262,Coorg,Karnataka,Nature,8.2545,Oct-Feb,Good place for short treks and photography,08-08-2022,4.5,rain coffee
+1263,Marina Beach,Tamil Nadu,Beach,7.8545,Nov-Feb,Excellent value for money and friendly locals,20-12-2021,4.8,crowded city beach
+1264,Mysore,Karnataka,City,8.2545,Sep-Nov,Nice greenery and calm environment,18-08-2022,4.8,palace heritage
+1265,Varkala Beach,Kerala,Beach,7.8545,Nov-Feb,Good place for short treks and photography,12-10-2021,3.9,calm chill
+1266,Varkala Beach,Kerala,Beach,8.2545,Dec-Mar,Stunning landscapes and photography opportunities,23-09-2021,4.4,chill calm
+1267,Munnar,Kerala,Mountain,9,Apr-Jun,Perfect for adventure seekers and nature lovers,22-04-2023,4.7,calm mountain
+1268,Kerala Backwaters,Kerala,Nature,8.2545,Nov-Feb,Excellent value for money and friendly locals,13-08-2023,4.5,backwater houseboat
+1269,Gulmarg,Jammu & Kashmir,Mountain,7.8545,Sep-Nov,Evening aarti experience was memorable,27-10-2023,4.9,skiing gondola
+1270,Khajuraho,Madhya Pradesh,Heritage,7.8545,Oct-Mar,Place felt crowded but spiritually uplifting,28-11-2021,4,temples history
+1271,Khajuraho,Madhya Pradesh,Heritage,8.2545,Nov-Feb,Traffic is heavy but there is a lot to do,07-02-2022,4.5,history temples
+1272,Coonoor,Tamil Nadu,Mountain,8.2545,Mar-Jun,Perfect for adventure seekers and nature lovers,12-12-2021,4.4,trek nilgiri
+1273,Puri Beach,Odisha,Beach,8.2545,Nov-Feb,Roads are a bit curvy but worth the views,16-06-2021,3.6,sunrise beach
+1274,Araku Valley,Andhra Pradesh,Nature,7.8545,Oct-Feb,Must visit at least once in lifetime,04-03-2021,4.2,valley tribal
+1275,Araku Valley,Andhra Pradesh,Nature,8.2545,Oct-Feb,Wildlife sightings depend on season and luck,12-04-2023,3.9,coffee valley
+1276,Puri Beach,Odisha,Beach,9,Dec-Mar,Amazing food and cultural experiences,10-08-2023,3.8,sunrise temple
+1277,Mysore,Karnataka,City,8.2545,Sep-Nov,Good vibe with cafes and seaside walks,28-03-2023,3.7,zoo palace
+1278,Mysore,Karnataka,City,7.8545,Nov-Feb,Good for a relaxed family trip close to nature,02-07-2022,4.2,palace heritage
+1279,Kaziranga,Assam,Nature,8.2545,Oct-Feb,Must visit at least once in lifetime,07-05-2023,3.9,wildlife safari
+1280,Srinagar,Jammu & Kashmir,Mountain,8.2545,Sep-Nov,Place felt crowded but spiritually uplifting,18-10-2023,5,houseboat gardens
+1281,Munnar,Kerala,Mountain,9,Mar-Jun,Nice greenery and calm environment,17-03-2023,4.3,mountain calm
+1282,Kochi,Kerala,City,8.2545,Aug-Dec,Great views with cool climate and greenery,31-07-2022,4.2,spice chinese nets
+1283,Sundarbans,West Bengal,Nature,7.213588,Nov-Feb,Evening aarti experience was memorable,02-10-2021,4.8,safari tiger
+1284,Ooty,Tamil Nadu,Mountain,8.2545,Mar-Jun,Peaceful atmosphere with well managed temples,15-04-2021,4.4,tea gardens toytrain
+1285,Gulmarg,Jammu & Kashmir,Mountain,8.2545,Mar-Jun,Peaceful atmosphere with well managed temples,30-10-2023,4.2,gondola snow
+1286,Kodaikanal,Tamil Nadu,Mountain,7.213588,Sep-Nov,Good for a relaxed family trip close to nature,18-03-2023,4.1,cool nature
+1287,Digha Beach,West Bengal,Beach,7.8545,Dec-Mar,Perfect for adventure seekers and nature lovers,24-03-2021,3.6,budget beach
+1288,Pushkar,Rajasthan,Spiritual,9,Sep-Nov,Must visit at least once in lifetime,22-11-2023,3.7,lake temple
+1289,Puri Beach,Odisha,Beach,9,Nov-Mar,Best experienced during off-season,20-11-2022,4.3,sunrise beach
+1290,Srinagar,Jammu & Kashmir,Mountain,8.2545,Apr-Jun,Roads are a bit curvy but worth the views,25-01-2023,4,dal lake houseboat
+1291,Kochi,Kerala,City,8.2545,Sep-Nov,Roads are a bit curvy but worth the views,30-08-2023,3.9,spice backwater
+1292,Kaziranga,Assam,Nature,9,Oct-Mar,Perfect for adventure seekers and nature lovers,18-02-2023,3.7,rhino wildlife
+1293,Alleppey,Kerala,Nature,7.213588,Oct-Mar,Roads are a bit curvy but worth the views,23-06-2023,4,backwater boatstay
+1294,Varanasi,Uttar Pradesh,Spiritual,9,Oct-Feb,Must visit at least once in lifetime,24-08-2023,4.8,temple ghat
+1295,Kerala Backwaters,Kerala,Nature,7.8545,Jun-Sep,Amazing food and cultural experiences,13-12-2023,4.1,houseboat backwater
+1296,Banaras,Uttar Pradesh,Spiritual,8.2545,Oct-Feb,Good vibe with cafes and seaside walks,26-06-2022,4.4,ghat cultural
+1297,Manali,Himachal Pradesh,Mountain,8.2545,Sep-Nov,"Good mix of food, markets and sightseeing",15-08-2022,4.6,adventure mountain
+1298,Mysore,Karnataka,City,9,Nov-Feb,Stunning landscapes and photography opportunities,15-07-2022,3.9,heritage zoo
+1299,Ooty,Tamil Nadu,Mountain,8.2545,Sep-Nov,"Good mix of food, markets and sightseeing",28-03-2021,3.9,tea gardens toytrain
+1300,Rann of Kutch,Gujarat,Nature,8.2545,Oct-Feb,Good place for short treks and photography,18-02-2022,4.7,festival culture
+1301,Kerala Backwaters,Kerala,Nature,7.213588,Oct-Mar,Wildlife sightings depend on season and luck,14-04-2021,4.5,calm houseboat
+1302,Coonoor,Tamil Nadu,Mountain,7.8545,Mar-Jun,Good for a relaxed family trip close to nature,27-04-2023,4,tea nilgiri
+1303,Kerala Backwaters,Kerala,Nature,7.213588,Oct-Mar,Evening aarti experience was memorable,02-09-2023,4.2,houseboat backwater
+1304,Mysore,Karnataka,City,8.2545,Sep-Nov,Great views with cool climate and greenery,03-07-2021,4.5,palace heritage
+1305,Kolkata,West Bengal,City,9,Aug-Dec,Great views with cool climate and greenery,25-03-2023,4.7,culture food
+1306,Alleppey,Kerala,Nature,7.213588,Jun-Sep,Best experienced during off-season,08-08-2021,4.9,boatstay houseboat
+1307,Jaisalmer,Rajasthan,Desert,9,Nov-Feb,Perfect for adventure seekers and nature lovers,17-08-2023,3.9,fort camel
+1308,Puri Beach,Odisha,Beach,9,Nov-Mar,Place felt crowded but spiritually uplifting,29-01-2021,4.6,beach temple
+1309,Kolkata,West Bengal,City,9,Nov-Feb,Perfect for adventure seekers and nature lovers,03-11-2022,3.6,heritage culture
+1310,Kolkata,West Bengal,City,7.8545,Nov-Feb,Clean beach with nice sunset views,24-05-2022,3.5,food culture
+1311,Rann of Kutch,Gujarat,Nature,8.2545,Jun-Sep,"Good mix of food, markets and sightseeing",24-01-2021,3.9,festival desert
+1312,Kaziranga,Assam,Nature,7.213588,Oct-Feb,"Good mix of food, markets and sightseeing",24-11-2021,4.1,rhino safari
+1313,Marina Beach,Tamil Nadu,Beach,8.2545,Nov-Mar,Must visit at least once in lifetime,29-03-2022,3.8,city beach crowded
+1314,Digha Beach,West Bengal,Beach,9,Nov-Mar,Evening aarti experience was memorable,23-08-2023,4.6,weekend budget
+1315,Rishikesh,Uttarakhand,Spiritual,7.213588,Oct-Feb,Excellent value for money and friendly locals,18-12-2023,4.6,peaceful river
+1316,Kaziranga,Assam,Nature,7.8545,Oct-Mar,Place felt crowded but spiritually uplifting,03-11-2022,4.8,safari wildlife
+1317,Varanasi,Uttar Pradesh,Spiritual,9,Sep-Nov,Perfect for adventure seekers and nature lovers,02-07-2023,4.7,aarti ghat
+1318,Jodhpur,Rajasthan,City,9,Nov-Feb,Best experienced during off-season,29-04-2021,4.3,blue city fort
+1319,Ooty,Tamil Nadu,Mountain,8.2545,Mar-Jun,Good place for short treks and photography,30-05-2021,3.6,toytrain tea gardens
+1320,Banaras,Uttar Pradesh,Spiritual,7.213588,Sep-Nov,Amazing food and cultural experiences,06-03-2021,3.9,ghat cultural
+1321,Araku Valley,Andhra Pradesh,Nature,9,Jun-Sep,Peaceful atmosphere with well managed temples,08-07-2023,4.8,tribal valley
+1322,Tirupati,Andhra Pradesh,Spiritual,7.8545,Oct-Feb,Good vibe with cafes and seaside walks,31-08-2021,3.8,queue darshan
+1323,Khajuraho,Madhya Pradesh,Heritage,7.8545,Sep-Nov,Wildlife sightings depend on season and luck,08-01-2021,4.6,history temples
+1324,Banaras,Uttar Pradesh,Spiritual,9,Oct-Feb,Peaceful atmosphere with well managed temples,16-04-2022,3.9,temple ghat
+1325,Manali,Himachal Pradesh,Mountain,7.8545,Mar-Jun,Great views with cool climate and greenery,09-05-2023,4.4,snow adventure
+1326,Varanasi,Uttar Pradesh,Spiritual,7.213588,Sep-Nov,Must visit at least once in lifetime,10-03-2021,4.2,temple ghat
+1327,Rishikesh,Uttarakhand,Spiritual,7.213588,Feb-Jun,Excellent value for money and friendly locals,25-04-2022,4.3,peaceful river
+1328,Jodhpur,Rajasthan,City,8.2545,Aug-Dec,Best experienced during off-season,16-10-2022,4.4,blue city fort
+1329,Munnar,Kerala,Mountain,7.8545,Sep-Nov,Evening aarti experience was memorable,08-09-2022,3.9,calm mountain
+1330,Coonoor,Tamil Nadu,Mountain,9,Apr-Jun,Great views with cool climate and greenery,07-12-2022,4.9,trek tea
+1331,Khajuraho,Madhya Pradesh,Heritage,8.2545,Sep-Nov,Evening aarti experience was memorable,17-04-2023,3.7,history temples
+1332,Banaras,Uttar Pradesh,Spiritual,9,Sep-Nov,Wildlife sightings depend on season and luck,08-09-2022,4.8,ghat temple
+1333,Kaziranga,Assam,Nature,9,Oct-Feb,Stunning landscapes and photography opportunities,22-12-2023,3.7,wildlife safari
+1334,Varanasi,Uttar Pradesh,Spiritual,8.2545,Oct-Feb,Nice greenery and calm environment,11-07-2023,4.8,ghat temple
+1335,Kaziranga,Assam,Nature,8.2545,Oct-Feb,Must visit at least once in lifetime,22-03-2021,4.8,wildlife rhino
+1336,Pushkar,Rajasthan,Spiritual,7.8545,Feb-Jun,"Good mix of food, markets and sightseeing",01-02-2021,3.8,fair lake
+1337,Pushkar,Rajasthan,Spiritual,7.8545,Oct-Feb,Must visit at least once in lifetime,23-02-2022,4.1,fair temple
+1338,Sundarbans,West Bengal,Nature,9,Oct-Feb,Stunning landscapes and photography opportunities,06-01-2023,4,tiger safari
+1339,Jaisalmer,Rajasthan,Desert,7.213588,Dec-Feb,Clean beach with nice sunset views,21-02-2022,4.1,camel fort
+1340,Srinagar,Jammu & Kashmir,Mountain,7.8545,Sep-Nov,Roads are a bit curvy but worth the views,19-06-2022,4.3,gardens houseboat
+1341,Sundarbans,West Bengal,Nature,7.8545,Oct-Mar,Clean beach with nice sunset views,17-04-2022,4.1,mangrove tiger
+1342,Gulmarg,Jammu & Kashmir,Mountain,8.2545,Oct-Feb,Amazing food and cultural experiences,02-10-2023,4.2,gondola snow
+1343,Puri Beach,Odisha,Beach,7.8545,Dec-Mar,Place felt crowded but spiritually uplifting,01-05-2021,4.3,temple sunrise
+1344,Darjeeling,West Bengal,Mountain,9,Sep-Nov,Wildlife sightings depend on season and luck,20-05-2021,4.6,toytrain trek
+1345,Jodhpur,Rajasthan,City,9,Nov-Feb,Great views with cool climate and greenery,17-09-2023,4.5,fort blue city
+1346,Banaras,Uttar Pradesh,Spiritual,9,Sep-Nov,Roads are a bit curvy but worth the views,21-12-2023,4.6,cultural temple
+1347,Shimla,Himachal Pradesh,Mountain,9,Sep-Nov,Good for a relaxed family trip close to nature,17-07-2021,4.3,family mallroad
+1348,Kodaikanal,Tamil Nadu,Mountain,8.2545,Oct-Feb,Traffic is heavy but there is a lot to do,24-03-2023,3.6,cool nature
